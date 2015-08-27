@@ -1,0 +1,38 @@
+index -> The Date for Indexing
+Lifted_mod_daily_weekly_value -> This is the Lifted Gallons modified Using bins generated from Weekly values
+Lifted_mod_daily_nextrefresh -> This is the Lifted Gallons modified Using bins generated from Next Refresh Date
+Lifted_actual_daily -> The Actual Daily value ( from the Last poll)
+Lifted_actual_weekly -> The Actual Weekly value ( from the Last poll)
+Lifted_actual_monthly -> The Actual Monthly value ( from the Last poll) 
+Week_structure_weekly_value -> Weekly Bins generated using weekly Values
+Week_structure_next_refresh -> Weekly Bins generated using Next Refresh
+date -> Date
+account_type -> account_type
+supplier_terminal_name -> supplier_terminal_name
+product_name -> product_name
+"('base_gallons', 'Daily')" ->  Base_gallons -> period Daily
+"('base_gallons', 'Monthly')"
+"('base_gallons', 'Weekly')"
+daily_nextrefresh_flag  -> Flag as 1 if program has modified the value of lifted gallons using bins generated from Next Refresh Date
+daily_weekValue_flag, -> Flag as 1 if program has modified the value of lifted gallons using bins generated from Next Refresh Date
+"('beginning_gallons', 'Daily')"
+"('beginning_gallons', 'Monthly')"
+"('beginning_gallons', 'Weekly')"
+"('en_allocation_status', 'Daily')"
+"('en_allocation_status', 'Monthly')"
+"('en_allocation_status', 'Weekly')"
+"('percentage_allocation', 'Daily')"
+"('percentage_allocation', 'Monthly')"
+"('percentage_allocation', 'Weekly')"
+"('alerts_ratability', 'Daily')"
+"('alerts_ratability', 'Monthly')"
+"('alerts_ratability', 'Weekly')"
+"('next_refresh_date', 'Daily')"
+"('next_refresh_date', 'Monthly')"
+Modified_NRD -> Flag as 1 if program has modified the value of Next Refresh Date using bins generated from Next Refresh Date
+"('next_refresh_date', 'Weekly')"
+id
+sanityWeekly_CumulativeDaily_WeeksByLiftedGallons -> True if Cumulative Daily Matches the Lifted Weekly  using bins generated from Weekly Lifted Gallons, else it is False
+sanityWeekly_CumulativeDaily_NextRefreshDate -> True if Cumulative Daily Matches the Lifted Weekly  using bins generated from Next Refresh Date, else it is False
+sanityMonthly_CumulativeDaily_WeeksByLiftedGallons -> 1 if Cumulative Daily Matches the Lifted Monthly  using bins generated from Weekly Lifted Gallons , else it is 0
+sanityMonthly_CumulativeDaily_WeeksByNextRefreshDate -> 1 if Cumulative Daily Matches the Lifted Monthly  using bins generated from Next Refresh Date,else 0

@@ -1,0 +1,5 @@
+1 -> Modified using LiftedGallons_Monthly 
+2 -> Modified using LiftedGallons_Monthly when there is a single missing day in between
+3 -> Modified using LiftedGallons_Weekly
+4 -> Modified using LiftedGallons_Weekly when there is a single missing day in between
+5 -> Modified using LiftedGallons_Weekly using opening balance

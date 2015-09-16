@@ -1,0 +1,946 @@
+Entities thread id: 3615048
+***** Execution in Combination: pilot Valero PILOT TRAVEL CENTE-122194-W/S - Rail MCKEE RAIL TERMINAL DSL - LSD/ULSD
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Valero PILOT TRAVEL CENTE-122194-W/S - UNB Contract JP Energy - Little Rock (B004) DSL - LSD/ULSD
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Valero PILOT TRAVEL CENTE-122194-W/S - UNB Contract Magellan - Dallas/Singleton (B645) DSL - LSD/ULSD
+[datetime.datetime(2015, 8, 7, 0, 0)]
+[datetime.datetime(2015, 8, 7, 0, 0), datetime.datetime(2015, 8, 14, 0, 0), datetime.datetime(2015, 8, 21, 0, 0), datetime.datetime(2015, 8, 28, 0, 0), datetime.datetime(2015, 9, 4, 0, 0)]
+All next refresh Dates Valid
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D')]
+2015-08-07 00:00:00 2
+2015-08-08 00:00:00 2
+2015-08-09 00:00:00 2
+2015-08-10 00:00:00 2
+2015-08-11 00:00:00 2
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+2015-08-19 00:00:00 2
+2015-08-20 00:00:00 2
+2015-08-21 00:00:00 2
+2015-08-22 00:00:00 2
+2015-08-23 00:00:00 2
+2015-08-24 00:00:00 2
+2015-08-25 00:00:00 2
+2015-08-26 00:00:00 2
+[Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 3
+2015-08-28 00:00:00 3
+2015-08-29 00:00:00 3
+2015-08-30 00:00:00 3
+2015-08-31 00:00:00 3
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w2
+2015-08-08    w2
+2015-08-09    w2
+2015-08-10    w2
+2015-08-11    w2
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w2
+2015-08-20    w2
+2015-08-21    w2
+2015-08-22    w2
+2015-08-23    w2
+2015-08-24    w2
+2015-08-25    w2
+2015-08-26    w2
+2015-08-27    w3
+2015-08-28    w3
+2015-08-29    w3
+2015-08-30    w3
+2015-08-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                     0                      0
+2015-08-02                   w1                     0                      0
+2015-08-03                   w1                     0                      0
+2015-08-04                   w1                  7499                   7499
+2015-08-05                   w1                     0                   7499
+2015-08-06                   w1                     0                   7499
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-07                   w2                     0                      0
+2015-08-08                   w2                     0                      0
+2015-08-09                   w2                     0                      0
+2015-08-10                   w2                     0                      0
+2015-08-11                   w2                     0                      0
+2015-08-12                   w2                     0                      0
+2015-08-13                   w2                     0                      0
+2015-08-14                   w2                     0                      0
+2015-08-15                   w2                     0                      0
+2015-08-16                   w2                     0                      0
+2015-08-17                   w2                     0                      0
+2015-08-18                   w2                     0                      0
+2015-08-19                   w2                     0                      0
+2015-08-20                   w2                     0                      0
+2015-08-21                   w2                     0                      0
+2015-08-22                   w2                     0                      0
+2015-08-23                   w2                     0                      0
+2015-08-24                   w2                     0                      0
+2015-08-25                   w2                  7499                   7499
+2015-08-26                   w2                  7499                  14998
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w3                     0                      0
+2015-08-28                   w3                     0                      0
+2015-08-29                   w3                  3110                   3110
+2015-08-30                   w3                  7500                  10610
+2015-08-31                   w3                     0                  10610
+0 0 0
+0 0 0
+7499 0 7499
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+7499 7499 0
+14998 7499 7499
+22497 14998 7499
+22497 22497 0
+22497 22497 0
+25607 22497 3110
+33107 25607 7500
+33107 33107 0
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-01               2015-08-07                              0   
+2015-08-02               2015-08-07                              0   
+2015-08-03               2015-08-07                              0   
+2015-08-04               2015-08-07                           7499   
+2015-08-05               2015-08-07                              0   
+2015-08-06               2015-08-07                              0   
+
+            lifted_gallons_Weekly  
+2015-08-01                      0  
+2015-08-02                      0  
+2015-08-03                      0  
+2015-08-04                   7499  
+2015-08-05                   7499  
+2015-08-06                   7499  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-12               2015-08-13                              0   
+
+            lifted_gallons_Weekly  
+2015-08-12                      0  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-07               2015-08-14                              0   
+2015-08-08               2015-08-14                              0   
+2015-08-09               2015-08-14                              0   
+2015-08-10               2015-08-14                              0   
+2015-08-11               2015-08-14                              0   
+
+            lifted_gallons_Weekly  
+2015-08-07                      0  
+2015-08-08                      0  
+2015-08-09                      0  
+2015-08-10                      0  
+2015-08-11                      0  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-13               2015-08-20                              0   
+2015-08-14               2015-08-20                              0   
+2015-08-15               2015-08-20                              0   
+2015-08-16               2015-08-20                              0   
+2015-08-17               2015-08-20                              0   
+2015-08-18               2015-08-20                              0   
+2015-08-19               2015-08-20                              0   
+
+            lifted_gallons_Weekly  
+2015-08-13                      0  
+2015-08-14                      0  
+2015-08-15                      0  
+2015-08-16                      0  
+2015-08-17                      0  
+2015-08-18                      0  
+2015-08-19                      0  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-20               2015-08-27                              0   
+2015-08-21               2015-08-27                              0   
+2015-08-22               2015-08-27                              0   
+2015-08-23               2015-08-27                              0   
+2015-08-24               2015-08-27                              0   
+2015-08-25               2015-08-27                           7499   
+2015-08-26               2015-08-27                           7499   
+
+            lifted_gallons_Weekly  
+2015-08-20                      0  
+2015-08-21                      0  
+2015-08-22                      0  
+2015-08-23                      0  
+2015-08-24                      0  
+2015-08-25                   7499  
+2015-08-26                  14998  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-27               2015-09-03                              0   
+2015-08-28               2015-09-03                              0   
+2015-08-29               2015-09-03                           3110   
+2015-08-30               2015-09-03                           7500   
+2015-08-31               2015-09-03                              0   
+
+            lifted_gallons_Weekly  
+2015-08-27                      0  
+2015-08-28                      0  
+2015-08-29                   3110  
+2015-08-30                  10610  
+2015-08-31                  10610  
+***** Execution in Combination: pilot Valero PILOT TRAVEL CENTE-122194-W/S - UNB Contract Nustar - Abernathy (B339) DSL - LSD/ULSD
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: pilot Valero PILOT TRAVEL CENTE-122194-W/S - UNB Contract Nustar - Southlake (B345) DSL - LSD/ULSD
+[datetime.datetime(2015, 8, 6, 0, 0), datetime.datetime(2015, 8, 13, 0, 0), datetime.datetime(2015, 8, 20, 0, 0), datetime.datetime(2015, 8, 27, 0, 0)]
+[datetime.datetime(2015, 8, 6, 0, 0), datetime.datetime(2015, 8, 13, 0, 0), datetime.datetime(2015, 8, 20, 0, 0), datetime.datetime(2015, 8, 27, 0, 0), datetime.datetime(2015, 9, 3, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+2015-08-12 00:00:00 1
+2015-08-13 00:00:00 1
+2015-08-14 00:00:00 1
+2015-08-15 00:00:00 1
+2015-08-16 00:00:00 1
+2015-08-17 00:00:00 1
+2015-08-18 00:00:00 1
+2015-08-19 00:00:00 1
+2015-08-20 00:00:00 1
+2015-08-21 00:00:00 1
+2015-08-22 00:00:00 1
+2015-08-23 00:00:00 1
+2015-08-24 00:00:00 1
+2015-08-25 00:00:00 1
+2015-08-26 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 2
+2015-08-28 00:00:00 2
+2015-08-29 00:00:00 2
+2015-08-30 00:00:00 2
+2015-08-31 00:00:00 2
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w1
+2015-08-13    w1
+2015-08-14    w1
+2015-08-15    w1
+2015-08-16    w1
+2015-08-17    w1
+2015-08-18    w1
+2015-08-19    w1
+2015-08-20    w1
+2015-08-21    w1
+2015-08-22    w1
+2015-08-23    w1
+2015-08-24    w1
+2015-08-25    w1
+2015-08-26    w1
+2015-08-27    w2
+2015-08-28    w2
+2015-08-29    w2
+2015-08-30    w2
+2015-08-31    w2
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                 84257                     -1
+2015-08-02                   w1                124208                     -1
+2015-08-03                   w1                131266                     -1
+2015-08-04                   w1                129510                     -1
+2015-08-05                   w1                124573                     -1
+2015-08-06                   w1                132275                     -1
+2015-08-07                   w1                130913                     -1
+2015-08-08                   w1                 92165                     -1
+2015-08-09                   w1                 69897                     -1
+2015-08-10                   w1                131452                     -1
+2015-08-11                   w1                125190                     -1
+2015-08-12                   w1                125322                     -1
+2015-08-13                   w1                125398                     -1
+2015-08-14                   w1                130096                     -1
+2015-08-15                   w1                 92604                     -1
+2015-08-16                   w1                109478                     -1
+2015-08-17                   w1                125500                     -1
+2015-08-18                   w1                124579                     -1
+2015-08-19                   w1                130338                     -1
+2015-08-20                   w1                155794                     -1
+2015-08-21                   w1                137871                     -1
+2015-08-22                   w1                161546                     -1
+2015-08-23                   w1                 85196                     -1
+2015-08-24                   w1                    -1                  70262
+2015-08-25                   w1                    -1                 226658
+2015-08-26                   w1                    -1                 397341
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w2                    -1                 211579
+2015-08-28                   w2                126721                 338300
+2015-08-29                   w2                120892                 459192
+2015-08-30                   w2                 69622                 536314
+2015-08-31                   w2                     0                 536314
+Modification_Successful
+215965 84257 124208
+347231 215965 131266
+476741 347231 129510
+601314 476741 124573
+733589 601314 132275
+864502 733589 130913
+956667 864502 92165
+1034064 956667 69897
+1174322 1034064 131452
+1299512 1174322 125190
+1424834 1299512 125322
+1550232 1424834 125398
+1680328 1550232 130096
+1772932 1680328 92604
+1897646 1772932 109478
+2030646 1897646 125500
+2155225 2030646 124579
+2285563 2155225 130338
+2441357 2285563 155794
+2579228 2441357 137871
+2740774 2579228 161546
+2825970 2740774 85196
+2996618 2825970 -1
+3153014 2996618 -1
+3323697 3153014 -1
+3542776 3323697 -1
+3669497 3542776 126721
+3790389 3669497 120892
+3867511 3790389 69622
+3867511 3867511 0
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-01               2015-08-06                          84257   
+2015-08-02               2015-08-06                         131708   
+2015-08-03               2015-08-06                         131266   
+2015-08-04               2015-08-06                         129510   
+2015-08-05               2015-08-06                         124573   
+
+            lifted_gallons_Weekly  
+2015-08-01                  84257  
+2015-08-02                 215965  
+2015-08-03                 347231  
+2015-08-04                 476741  
+2015-08-05                 601314  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-06               2015-08-13                         132275   
+2015-08-07               2015-08-13                         130913   
+2015-08-08               2015-08-13                          92165   
+2015-08-09               2015-08-13                          77397   
+2015-08-10               2015-08-13                         140258   
+2015-08-11               2015-08-13                         125190   
+2015-08-12               2015-08-13                         125322   
+
+            lifted_gallons_Weekly  
+2015-08-06                 132275  
+2015-08-07                 263188  
+2015-08-08                 355353  
+2015-08-09                 432750  
+2015-08-10                 573008  
+2015-08-11                 698198  
+2015-08-12                 823520  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-13               2015-08-20                         125398   
+2015-08-14               2015-08-20                         130096   
+2015-08-15               2015-08-20                          92604   
+2015-08-16               2015-08-20                         124714   
+2015-08-17               2015-08-20                         133000   
+2015-08-18               2015-08-20                         124579   
+2015-08-19               2015-08-20                         130338   
+
+            lifted_gallons_Weekly  
+2015-08-13                 125398  
+2015-08-14                 255494  
+2015-08-15                 348098  
+2015-08-16                 472812  
+2015-08-17                 605812  
+2015-08-18                 730391  
+2015-08-19                 860729  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-20               2015-08-27                         155794   
+2015-08-21               2015-08-27                         137871   
+2015-08-22               2015-08-27                         161546   
+2015-08-23               2015-08-27                          85196   
+2015-08-24               2015-08-27                         170648   
+2015-08-25               2015-08-27                         156396   
+2015-08-26               2015-08-27                         170683   
+
+            lifted_gallons_Weekly  
+2015-08-20                 155794  
+2015-08-21                 293665  
+2015-08-22                 455211  
+2015-08-23                 540407  
+2015-08-24                 711055  
+2015-08-25                 867451  
+2015-08-26                1038134  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-27               2015-09-03                         219079   
+2015-08-28               2015-09-03                         126721   
+2015-08-29               2015-09-03                         120892   
+2015-08-30               2015-09-03                          77122   
+2015-08-31               2015-09-03                              0   
+
+            lifted_gallons_Weekly  
+2015-08-27                 219079  
+2015-08-28                 345800  
+2015-08-29                 466692  
+2015-08-30                 543814  
+2015-08-31                 543814  
+***** Execution in Combination: pilot Valero PILOT TRAVEL CENTE-122194-W/S - UNB Contract Pro Petroleum - Lubbock (B729) DSL - LSD/ULSD
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Valero PILOT TRAVEL CENTE-122194-W/S - UNB Contract Valero - Ardmore (PBAM) DSL - LSD/ULSD
+[datetime.datetime(2015, 8, 6, 0, 0)]
+[datetime.datetime(2015, 8, 6, 0, 0), datetime.datetime(2015, 8, 13, 0, 0), datetime.datetime(2015, 8, 20, 0, 0), datetime.datetime(2015, 8, 27, 0, 0), datetime.datetime(2015, 9, 3, 0, 0)]
+All next refresh Dates Valid
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D')]
+2015-08-06 00:00:00 2
+2015-08-07 00:00:00 2
+2015-08-08 00:00:00 2
+2015-08-09 00:00:00 2
+2015-08-10 00:00:00 2
+2015-08-11 00:00:00 2
+2015-08-12 00:00:00 2
+[Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D')]
+2015-08-13 00:00:00 3
+2015-08-14 00:00:00 3
+2015-08-15 00:00:00 3
+2015-08-16 00:00:00 3
+2015-08-17 00:00:00 3
+2015-08-18 00:00:00 3
+2015-08-19 00:00:00 3
+[Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D')]
+2015-08-20 00:00:00 4
+2015-08-21 00:00:00 4
+2015-08-22 00:00:00 4
+2015-08-23 00:00:00 4
+2015-08-24 00:00:00 4
+2015-08-25 00:00:00 4
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w2
+2015-08-07    w2
+2015-08-08    w2
+2015-08-09    w2
+2015-08-10    w2
+2015-08-11    w2
+2015-08-12    w2
+2015-08-13    w3
+2015-08-14    w3
+2015-08-15    w3
+2015-08-16    w3
+2015-08-17    w3
+2015-08-18    w3
+2015-08-19    w3
+2015-08-20    w4
+2015-08-21    w4
+2015-08-22    w4
+2015-08-23    w4
+2015-08-24    w4
+2015-08-25    w4
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                 22501                 112500
+2015-08-02                   w1                 15000                 127500
+2015-08-03                   w1                 30000                 157500
+2015-08-04                   w1                 45000                 225000
+2015-08-05                   w1                 37500                 262500
+Opening Balance Lifted_Daily 37500
+Opening Balance Lifted_Weekly 82499
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-06                   w2                 45002                  45002
+2015-08-07                   w2                 30000                  75002
+2015-08-08                   w2                 37504                 120006
+2015-08-09                   w2                 22500                 142506
+2015-08-10                   w2                 37500                 180006
+2015-08-11                   w2                 37501                 225007
+2015-08-12                   w2                 45002                 277509
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-13                   w3                 37500                  37500
+2015-08-14                   w3                 30000                  75000
+2015-08-15                   w3                 22461                 104961
+2015-08-16                   w3                 15002                 119963
+2015-08-17                   w3                 45000                 164963
+2015-08-18                   w3                 45001                 209964
+2015-08-19                   w3                 45001                 254965
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-20                   w4                 37500                  37500
+2015-08-21                   w4                 37500                  82500
+2015-08-22                   w4                 22501                 112501
+2015-08-23                   w4                 30001                 142502
+2015-08-24                   w4                 30005                 172507
+2015-08-25                   w4                 45000                 225007
+2015-08-26                   w4                 45104                 270111
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                 45065                  45065
+2015-08-28                   w5                 37565                  82630
+2015-08-29                   w5                 15000                 105130
+2015-08-30                   w5                 22500                 127630
+2015-08-31                   w5                 15001                 142631
+Modification_Successful
+37501 22501 15000
+67501 37501 30000
+135001 67501 45000
+172501 135001 37500
+225003 172501 45002
+255003 225003 30000
+300007 255003 37504
+322507 300007 22500
+360007 322507 37500
+405008 360007 37501
+457510 405008 45002
+495010 457510 37500
+532510 495010 30000
+562471 532510 22461
+577473 562471 15002
+622473 577473 45000
+667474 622473 45001
+712475 667474 45001
+749975 712475 37500
+794975 749975 37500
+824976 794975 22501
+854977 824976 30001
+884982 854977 30005
+937482 884982 45000
+982586 937482 45104
+1027651 982586 45065
+1065216 1027651 37565
+1087716 1065216 15000
+1110216 1087716 22500
+1125217 1110216 15001
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-01               2015-08-06                          22501   
+2015-08-02               2015-08-06                          15000   
+2015-08-03               2015-08-06                          30000   
+2015-08-04               2015-08-06                          67500   
+2015-08-05               2015-08-06                          37500   
+
+            lifted_gallons_Weekly  
+2015-08-01                  22501  
+2015-08-02                  37501  
+2015-08-03                  67501  
+2015-08-04                 135001  
+2015-08-05                 172501  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-06               2015-08-13                          52502   
+2015-08-07               2015-08-13                          30000   
+2015-08-08               2015-08-13                          45004   
+2015-08-09               2015-08-13                          22500   
+2015-08-10               2015-08-13                          37500   
+2015-08-11               2015-08-13                          45001   
+2015-08-12               2015-08-13                          52502   
+
+            lifted_gallons_Weekly  
+2015-08-06                  52502  
+2015-08-07                  82502  
+2015-08-08                 127506  
+2015-08-09                 150006  
+2015-08-10                 187506  
+2015-08-11                 232507  
+2015-08-12                 285009  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-13               2015-08-20                          37500   
+2015-08-14               2015-08-20                          37500   
+2015-08-15               2015-08-20                          29961   
+2015-08-16               2015-08-20                          15002   
+2015-08-17               2015-08-20                          45000   
+2015-08-18               2015-08-20                          45001   
+2015-08-19               2015-08-20                          45001   
+
+            lifted_gallons_Weekly  
+2015-08-13                  37500  
+2015-08-14                  75000  
+2015-08-15                 104961  
+2015-08-16                 119963  
+2015-08-17                 164963  
+2015-08-18                 209964  
+2015-08-19                 254965  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-20               2015-08-27                          37500   
+2015-08-21               2015-08-27                          45000   
+2015-08-22               2015-08-27                          30001   
+2015-08-23               2015-08-27                          30001   
+2015-08-24               2015-08-27                          30005   
+2015-08-25               2015-08-27                          52500   
+2015-08-26               2015-08-27                          45104   
+
+            lifted_gallons_Weekly  
+2015-08-20                  37500  
+2015-08-21                  82500  
+2015-08-22                 112501  
+2015-08-23                 142502  
+2015-08-24                 172507  
+2015-08-25                 225007  
+2015-08-26                 270111  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-27               2015-09-03                          45065   
+2015-08-28               2015-09-03                          37565   
+2015-08-29               2015-09-03                          22500   
+2015-08-30               2015-09-03                          22500   
+2015-08-31               2015-09-03                          15001   
+
+            lifted_gallons_Weekly  
+2015-08-27                  45065  
+2015-08-28                  82630  
+2015-08-29                 105130  
+2015-08-30                 127630  
+2015-08-31                 142631  
+***** Execution in Combination: pilot Valero PILOT TRAVEL CENTE-122194-W/S - UNB Contract Valero - Memphis (PBMM) DSL - LSD/ULSD
+[datetime.datetime(2015, 8, 6, 0, 0)]
+[datetime.datetime(2015, 8, 6, 0, 0), datetime.datetime(2015, 8, 13, 0, 0), datetime.datetime(2015, 8, 20, 0, 0), datetime.datetime(2015, 8, 27, 0, 0), datetime.datetime(2015, 9, 3, 0, 0)]
+All next refresh Dates Valid
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D')]
+2015-08-06 00:00:00 2
+2015-08-07 00:00:00 2
+2015-08-08 00:00:00 2
+2015-08-09 00:00:00 2
+2015-08-10 00:00:00 2
+2015-08-11 00:00:00 2
+2015-08-12 00:00:00 2
+[Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D')]
+2015-08-13 00:00:00 3
+2015-08-14 00:00:00 3
+2015-08-15 00:00:00 3
+2015-08-16 00:00:00 3
+2015-08-17 00:00:00 3
+2015-08-18 00:00:00 3
+2015-08-19 00:00:00 3
+[Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D')]
+2015-08-20 00:00:00 4
+2015-08-21 00:00:00 4
+2015-08-22 00:00:00 4
+2015-08-23 00:00:00 4
+2015-08-24 00:00:00 4
+2015-08-25 00:00:00 4
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w2
+2015-08-07    w2
+2015-08-08    w2
+2015-08-09    w2
+2015-08-10    w2
+2015-08-11    w2
+2015-08-12    w2
+2015-08-13    w3
+2015-08-14    w3
+2015-08-15    w3
+2015-08-16    w3
+2015-08-17    w3
+2015-08-18    w3
+2015-08-19    w3
+2015-08-20    w4
+2015-08-21    w4
+2015-08-22    w4
+2015-08-23    w4
+2015-08-24    w4
+2015-08-25    w4
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                189839                 678756
+2015-08-02                   w1                168076                 854507
+2015-08-03                   w1                167181                1029443
+2015-08-04                   w1                267105                1312005
+2015-08-05                   w1                245101                1564806
+Opening Balance Lifted_Daily 205802
+Opening Balance Lifted_Weekly 481217
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-06                   w2                275000                 275000
+2015-08-07                   w2                266876                 541876
+2015-08-08                   w2                143681                 685557
+2015-08-09                   w2                159643                 845200
+2015-08-10                   w2                183094                1036144
+2015-08-11                   w2                274642                1326088
+2015-08-12                   w2                273889                1599977
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-13                   w3                277363                 277363
+2015-08-14                   w3                282825                 560188
+2015-08-15                   w3                184225                 744413
+2015-08-16                   w3                206874                 981886
+2015-08-17                   w3                228083                1217819
+2015-08-18                   w3                275468                1493287
+2015-08-19                   w3                280252                1773539
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-20                   w4                288700                 288700
+2015-08-21                   w4                256530                 545230
+2015-08-22                   w4                143401                 688631
+2015-08-23                   w4                144873                 833504
+2015-08-24                   w4                213281                1046785
+2015-08-25                   w4                273097                1327683
+2015-08-26                   w4                269245                1604678
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                247492                 247492
+2015-08-28                   w5                239283                 486775
+2015-08-29                   w5                243106                 729881
+2015-08-30                   w5                175094                 904975
+2015-08-31                   w5                188450                1101125
+Modification_Successful
+365590 189839 168076
+540526 365590 167181
+823088 540526 267105
+1075889 823088 245101
+1358624 1075889 275000
+1625500 1358624 266876
+1769181 1625500 143681
+1928824 1769181 159643
+2119768 1928824 183094
+2409712 2119768 274642
+2683601 2409712 273889
+2960964 2683601 277363
+3243789 2960964 282825
+3428014 3243789 184225
+3665487 3428014 206874
+3901420 3665487 228083
+4176888 3901420 275468
+4457140 4176888 280252
+4745840 4457140 288700
+5002370 4745840 256530
+5145771 5002370 143401
+5290644 5145771 144873
+5503925 5290644 213281
+5784823 5503925 273097
+6061818 5784823 269245
+6309310 6061818 247492
+6548593 6309310 239283
+6791699 6548593 243106
+6966793 6791699 175094
+7162943 6966793 188450
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-01               2015-08-06                         189839   
+2015-08-02               2015-08-06                         175751   
+2015-08-03               2015-08-06                         174936   
+2015-08-04               2015-08-06                         282562   
+2015-08-05               2015-08-06                         252801   
+
+            lifted_gallons_Weekly  
+2015-08-01                 189839  
+2015-08-02                 365590  
+2015-08-03                 540526  
+2015-08-04                 823088  
+2015-08-05                1075889  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-06               2015-08-13                         282735   
+2015-08-07               2015-08-13                         266876   
+2015-08-08               2015-08-13                         143681   
+2015-08-09               2015-08-13                         159643   
+2015-08-10               2015-08-13                         190944   
+2015-08-11               2015-08-13                         289944   
+2015-08-12               2015-08-13                         273889   
+
+            lifted_gallons_Weekly  
+2015-08-06                 282735  
+2015-08-07                 549611  
+2015-08-08                 693292  
+2015-08-09                 852935  
+2015-08-10                1043879  
+2015-08-11                1333823  
+2015-08-12                1607712  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-13               2015-08-20                         277363   
+2015-08-14               2015-08-20                         282825   
+2015-08-15               2015-08-20                         184225   
+2015-08-16               2015-08-20                         237473   
+2015-08-17               2015-08-20                         235933   
+2015-08-18               2015-08-20                         275468   
+2015-08-19               2015-08-20                         280252   
+
+            lifted_gallons_Weekly  
+2015-08-13                 277363  
+2015-08-14                 560188  
+2015-08-15                 744413  
+2015-08-16                 981886  
+2015-08-17                1217819  
+2015-08-18                1493287  
+2015-08-19                1773539  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-20               2015-08-27                         288700   
+2015-08-21               2015-08-27                         256530   
+2015-08-22               2015-08-27                         143401   
+2015-08-23               2015-08-27                         144873   
+2015-08-24               2015-08-27                         213281   
+2015-08-25               2015-08-27                         280898   
+2015-08-26               2015-08-27                         276995   
+
+            lifted_gallons_Weekly  
+2015-08-20                 288700  
+2015-08-21                 545230  
+2015-08-22                 688631  
+2015-08-23                 833504  
+2015-08-24                1046785  
+2015-08-25                1327683  
+2015-08-26                1604678  
+****Valid Week***
+           next_refresh_date_Weekly  lifted_gallons_daily_modified  \
+2015-08-27               2015-09-03                         247492   
+2015-08-28               2015-09-03                         239283   
+2015-08-29               2015-09-03                         243106   
+2015-08-30               2015-09-03                         175094   
+2015-08-31               2015-09-03                         196150   
+
+            lifted_gallons_Weekly  
+2015-08-27                 247492  
+2015-08-28                 486775  
+2015-08-29                 729881  
+2015-08-30                 904975  
+2015-08-31                1101125  
+Rows  124 Deleted Successfully
+Deletion Success
+Completed Execution Thanks for you Patience 
+0:00:03.977000
+Execution Started Please Wait.....

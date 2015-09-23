@@ -1,5 +1,7 @@
-1 -> Modified using LiftedGallons_Monthly 
-2 -> Modified using LiftedGallons_Monthly when there is a single missing day in between
+1 -> Modified using LiftedGallons_Monthly
+2 -> Modified using LiftedGallong Monthly where single missing day
 3 -> Modified using LiftedGallons_Weekly
 4 -> Modified using LiftedGallons_Weekly when there is a single missing day in between
 5 -> Modified using LiftedGallons_Weekly using opening balance
+6 -> First Day Weekly missing , but second day available
+7 -> First Day Monthly missing , but second day available

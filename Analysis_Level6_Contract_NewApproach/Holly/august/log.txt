@@ -1,0 +1,859 @@
+Entities thread id: 6090572
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Albuquerque NM - VEC - T109 ALB GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Albuquerque NM - VEC - T109 V
+[datetime.datetime(2015, 8, 4, 0, 0)]
+[datetime.datetime(2015, 8, 4, 0, 0), datetime.datetime(2015, 8, 11, 0, 0), datetime.datetime(2015, 8, 18, 0, 0), datetime.datetime(2015, 8, 25, 0, 0), datetime.datetime(2015, 9, 1, 0, 0)]
+All next refresh Dates Valid
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D')]
+2015-08-04 00:00:00 2
+2015-08-05 00:00:00 2
+2015-08-06 00:00:00 2
+2015-08-07 00:00:00 2
+2015-08-08 00:00:00 2
+2015-08-09 00:00:00 2
+2015-08-10 00:00:00 2
+[Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D')]
+2015-08-11 00:00:00 3
+2015-08-12 00:00:00 3
+2015-08-13 00:00:00 3
+2015-08-14 00:00:00 3
+2015-08-15 00:00:00 3
+2015-08-16 00:00:00 3
+2015-08-17 00:00:00 3
+2015-08-18 00:00:00 3
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+[Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D')]
+2015-08-25 00:00:00 4
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w2
+2015-08-05    w2
+2015-08-06    w2
+2015-08-07    w2
+2015-08-08    w2
+2015-08-09    w2
+2015-08-10    w2
+2015-08-11    w3
+2015-08-12    w3
+2015-08-13    w3
+2015-08-14    w3
+2015-08-15    w3
+2015-08-16    w3
+2015-08-17    w3
+2015-08-18    w3
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w4
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                     0                  23405
+2015-08-02                   w1                     0                  23405
+2015-08-03                   w1                     0                  23405
+Opening Balance Lifted_Daily 7852
+Opening Balance Lifted_Weekly 23405
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-04                   w2                     0                      0
+2015-08-05                   w2                     0                      0
+2015-08-06                   w2                     0                      0
+2015-08-07                   w2                     0                      0
+2015-08-08                   w2                  7699                   7699
+2015-08-09                   w2                  7701                  15400
+2015-08-10                   w2                     0                  15400
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-11                   w3                     0                      0
+2015-08-12                   w3                     0                      0
+2015-08-13                   w3                     0                      0
+2015-08-14                   w3                     0                      0
+2015-08-15                   w3                     0                      0
+2015-08-16                   w3                     0                      0
+2015-08-17                   w3                     0                      0
+2015-08-18                   w3                     0                      0
+2015-08-19                   w3                     0                      0
+2015-08-20                   w3                     0                      0
+2015-08-21                   w3                  7503                   7503
+2015-08-22                   w3                     0                   7503
+2015-08-23                   w3                     0                   7503
+2015-08-24                   w3                     0                   7503
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-25                   w4                     0                      0
+2015-08-26                   w4                  7700                   7700
+2015-08-27                   w4                     0                   7700
+2015-08-28                   w4                  7700                  15400
+2015-08-29                   w4                  7700                  23100
+2015-08-30                   w4                     0                  23100
+2015-08-31                   w4                 15403                  38503
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+7699 0 7699
+15400 7699 7701
+15400 15400 0
+15400 15400 0
+15400 15400 0
+15400 15400 0
+15400 15400 0
+15400 15400 0
+15400 15400 0
+15400 15400 0
+15400 15400 0
+15400 15400 0
+15400 15400 0
+22903 15400 7503
+22903 22903 0
+22903 22903 0
+22903 22903 0
+22903 22903 0
+30603 22903 7700
+30603 30603 0
+38303 30603 7700
+46003 38303 7700
+46003 46003 0
+61406 46003 15403
+Last Day is Assumed to be true!
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Opening Balance Lifted_Daily 7852
+Opening Balance Lifted_Weekly 23405
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Artesia NM - HEP - 2000 ARTESIA-GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Artesia NM - HEP - 2000 V
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Bloomfield NM - WRC - T293 BLOOMFIELD-DIESEL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Bloomfield NM - WRC - T293 BLOOMFIELD-GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Boise ID - TSO - T144 BOISE CONVENTIONAL GASOLINE
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Boise ID - TSO - T144 BOISE OXY GASOLINE
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Boise ID - TSO - T144 G
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Cedar City UT - HEP - T115 Cedar City Gasolines
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Cedar City UT - HEP - T115 G
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Cedar City UT - HEP - T115 V
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Cheyenne WY - HEP - 2600 CHEYENNE REFINERY BIO DIESEL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Cheyenne WY - HEP - 2600 CHEYENNE REFINERY GASOLINE
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Cheyenne WY - HEP - 2600 CHEYENNE REFINERY PREMIUM
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Cheyenne WY - MAG - T220 CHEYENNE MAGELLAN DIESEL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Cheyenne WY - MAG - T220 CHEYENNE MAGELLAN GASOLINE
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Cheyenne WY - MAG - T220 CHEYENNE MAGELLAN PREMIUM
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Denver CO - MAG - T196 DENVER - AURORA - DIESEL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Denver CO - MAG - T196 DENVER - AURORA - GASOLINE
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Denver CO - MAG - T196 DENVER - AURORA - PREMIUM
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Dupont CO - MAG - T221 DUPONT CO DIESEL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Dupont CO - MAG - T221 DUPONT GASOLINE
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Dupont CO - MAG - T221 DUPONT PREMIUM GASOLINE
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT El Dorado GAS/DSL NC GROUP DSL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT El Dorado GAS/DSL NC GROUP GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT El Paso TX - HEP - T101 EL PASO-GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT El Paso TX - HEP - T101 V
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT El Paso TX - MAG - T288 EL PASO MAG GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT El Paso TX - MAG - T288 V
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT El Paso TX - WRC - T102 G
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Fountain CO - MAG - T222 FOUNTAIN DIESEL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Fountain CO - MAG - T222 FOUNTAIN GASOLINE
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Fountain CO - MAG - T222 FOUNTAIN PREMIUM GASOLINE
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Las Vegas NV - HEP - T261 G
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Las Vegas NV - HEP - T261 LV HEP-CONV NL. E-10 PRODUCTS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Las Vegas NV - HEP - T261 LV HEP-CONV. P NL E-10 PRODUCTS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Magellan GAS/DSL CONT GROUP DSL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Magellan GAS/DSL NC GROUP GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Magellan Minnesota GROUP DSL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Magellan Minnesota GROUP GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Moriarty NM - HEP - T139 MORIARTY DSL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Moriarty NM - HEP - T139 MORIARTY-GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT NuStar Gas/Dsl Cont GROUP DSL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT NuStar Gas/Dsl Cont GROUP Y
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT NuStar Gas/Dsl NC GROUP GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Odessa TX- MAG - T287 ODESSA-DIESEL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Pasco WA - TSO - T142 G
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Pasco WA - TSO - T142 PASCO OXY GASOLINE
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Phoenix AZ - CAL - T104 G
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Phoenix AZ - CAL - T104 PHX CALJET-CBG PREM. PRODUCTS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Phoenix AZ - CAL - T104 PHX CALJET-CBG PRODUCTS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Phoenix AZ - CAL - T104 PHX CALJET-CONV NL E-10 PREM PRODUCTS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Phoenix AZ - CAL - T104 PHX CALJET-CONV NL E-10 PRODUCTS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Phoenix AZ - CAL - T104 V
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Phoenix AZ - KMO - T103 G
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Phoenix AZ - KMO - T103 PHX KM CONV. PREM. E-10 PRODUCTS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Phoenix AZ - KMO - T103 PHX KM-CONV. NL E-10 PRODUCTS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Phoenix AZ - PRO - T114 G
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Phoenix AZ - PRO - T114 V
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Tucson AZ - HEP - T105 TUCSON HEP-CONV NL E-10 PRODUCTS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Tucson AZ - HEP - T105 TUCSON HEP-CONV PREM NL E-10 PRODUCTS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Tucson AZ - HEP - T105 V
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Tucson AZ - KMO - T107 G
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Tucson AZ - KMO - T107 TUCSON KM CONV NL E-10 PRODUCTS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Tucson AZ - KMO - T107 TUCSON KM CONV PNL E-10 PRODUCT
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Tulsa East GAS/DSL Cont GROUP DSL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Tulsa East GAS/DSL NC GROUP GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Tulsa Mag GAS/DSL CONT GROUP DSL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Tulsa Mag GAS/DSL NC GROUP GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Woods Cross UT - HEP - 5000 G
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Woods Cross UT - HEP - 5000 V
+[datetime.datetime(2015, 8, 2, 0, 0)]
+[datetime.datetime(2015, 8, 2, 0, 0), datetime.datetime(2015, 8, 9, 0, 0), datetime.datetime(2015, 8, 16, 0, 0), datetime.datetime(2015, 8, 23, 0, 0), datetime.datetime(2015, 8, 30, 0, 0), datetime.datetime(2015, 9, 6, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D')]
+2015-08-04 00:00:00 2
+2015-08-05 00:00:00 2
+2015-08-06 00:00:00 2
+2015-08-07 00:00:00 2
+2015-08-08 00:00:00 2
+2015-08-09 00:00:00 2
+2015-08-10 00:00:00 2
+2015-08-11 00:00:00 2
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+2015-08-19 00:00:00 2
+2015-08-20 00:00:00 2
+2015-08-21 00:00:00 2
+2015-08-22 00:00:00 2
+2015-08-23 00:00:00 2
+2015-08-24 00:00:00 2
+2015-08-25 00:00:00 2
+2015-08-26 00:00:00 2
+2015-08-27 00:00:00 2
+2015-08-28 00:00:00 2
+2015-08-29 00:00:00 2
+2015-08-30 00:00:00 2
+2015-08-31 00:00:00 2
+[Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w2
+2015-08-05    w2
+2015-08-06    w2
+2015-08-07    w2
+2015-08-08    w2
+2015-08-09    w2
+2015-08-10    w2
+2015-08-11    w2
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w2
+2015-08-20    w2
+2015-08-21    w2
+2015-08-22    w2
+2015-08-23    w2
+2015-08-24    w2
+2015-08-25    w2
+2015-08-26    w2
+2015-08-27    w2
+2015-08-28    w2
+2015-08-29    w2
+2015-08-30    w2
+2015-08-31    w2
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                     0                      0
+2015-08-02                   w1                     0                      0
+2015-08-03                   w1                   900                    900
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-04                   w2                    -1                     -1
+2015-08-05                   w2                    -1                     -1
+2015-08-06                   w2                    -1                     -1
+2015-08-07                   w2                    -1                     -1
+2015-08-08                   w2                    -1                     -1
+2015-08-09                   w2                    -1                     -1
+2015-08-10                   w2                    -1                     -1
+2015-08-11                   w2                    -1                     -1
+2015-08-12                   w2                    -1                     -1
+2015-08-13                   w2                    -1                     -1
+2015-08-14                   w2                    -1                     -1
+2015-08-15                   w2                    -1                     -1
+2015-08-16                   w2                    -1                     -1
+2015-08-17                   w2                    -1                     -1
+2015-08-18                   w2                    -1                     -1
+2015-08-19                   w2                    -1                     -1
+2015-08-20                   w2                    -1                     -1
+2015-08-21                   w2                    -1                     -1
+2015-08-22                   w2                    -1                     -1
+2015-08-23                   w2                    -1                     -1
+2015-08-24                   w2                    -1                     -1
+2015-08-25                   w2                    -1                     -1
+2015-08-26                   w2                    -1                     -1
+2015-08-27                   w2                    -1                     -1
+2015-08-28                   w2                    -1                     -1
+2015-08-29                   w2                    -1                     -1
+2015-08-30                   w2                    -1                     -1
+2015-08-31                   w2                    -1                     -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+0 0 0
+900 0 900
+33629 900 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+40837 33629 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+53037 40837 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+64379 53037 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+64379 64379 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+64379 64379 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+64379 64379 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+64379 64379 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+100390 64379 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+187032 100390 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+319948 187032 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+340953 319948 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+351457 340953 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+405866 351457 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+478684 405866 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+581835 478684 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 581835 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Opening Balance Lifted_Daily 0
+Opening Balance Lifted_Weekly 0
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Woods Cross UT - HEP - 5000 WOODS CROSS GASOLINE
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT Woods Cross UT - HEP - 5000 Woods Cross Bio Diesel 5%
+[datetime.datetime(2015, 8, 2, 0, 0)]
+[datetime.datetime(2015, 8, 2, 0, 0), datetime.datetime(2015, 8, 9, 0, 0), datetime.datetime(2015, 8, 16, 0, 0), datetime.datetime(2015, 8, 23, 0, 0), datetime.datetime(2015, 8, 30, 0, 0), datetime.datetime(2015, 9, 6, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D')]
+2015-08-04 00:00:00 2
+2015-08-05 00:00:00 2
+2015-08-06 00:00:00 2
+2015-08-07 00:00:00 2
+2015-08-08 00:00:00 2
+2015-08-09 00:00:00 2
+2015-08-10 00:00:00 2
+2015-08-11 00:00:00 2
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+2015-08-19 00:00:00 2
+2015-08-20 00:00:00 2
+2015-08-21 00:00:00 2
+2015-08-22 00:00:00 2
+2015-08-23 00:00:00 2
+2015-08-24 00:00:00 2
+2015-08-25 00:00:00 2
+2015-08-26 00:00:00 2
+2015-08-27 00:00:00 2
+2015-08-28 00:00:00 2
+2015-08-29 00:00:00 2
+2015-08-30 00:00:00 2
+2015-08-31 00:00:00 2
+[Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w2
+2015-08-05    w2
+2015-08-06    w2
+2015-08-07    w2
+2015-08-08    w2
+2015-08-09    w2
+2015-08-10    w2
+2015-08-11    w2
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w2
+2015-08-20    w2
+2015-08-21    w2
+2015-08-22    w2
+2015-08-23    w2
+2015-08-24    w2
+2015-08-25    w2
+2015-08-26    w2
+2015-08-27    w2
+2015-08-28    w2
+2015-08-29    w2
+2015-08-30    w2
+2015-08-31    w2
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                     0                      0
+2015-08-02                   w1                     0                      0
+2015-08-03                   w1                   900                    900
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-04                   w2                    -1                     -1
+2015-08-05                   w2                    -1                     -1
+2015-08-06                   w2                    -1                     -1
+2015-08-07                   w2                    -1                     -1
+2015-08-08                   w2                    -1                     -1
+2015-08-09                   w2                    -1                     -1
+2015-08-10                   w2                    -1                     -1
+2015-08-11                   w2                    -1                     -1
+2015-08-12                   w2                    -1                     -1
+2015-08-13                   w2                    -1                     -1
+2015-08-14                   w2                    -1                     -1
+2015-08-15                   w2                    -1                     -1
+2015-08-16                   w2                    -1                     -1
+2015-08-17                   w2                    -1                     -1
+2015-08-18                   w2                    -1                     -1
+2015-08-19                   w2                    -1                     -1
+2015-08-20                   w2                    -1                     -1
+2015-08-21                   w2                    -1                     -1
+2015-08-22                   w2                    -1                     -1
+2015-08-23                   w2                    -1                     -1
+2015-08-24                   w2                    -1                     -1
+2015-08-25                   w2                    -1                     -1
+2015-08-26                   w2                    -1                     -1
+2015-08-27                   w2                    -1                     -1
+2015-08-28                   w2                    -1                     -1
+2015-08-29                   w2                    -1                     -1
+2015-08-30                   w2                    -1                     -1
+2015-08-31                   w2                    -1                     -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+0 0 0
+900 0 900
+33629 900 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+40837 33629 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+53037 40837 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+64379 53037 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+64379 64379 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+64379 64379 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+64379 64379 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+64379 64379 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+100390 64379 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+187032 100390 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+319948 187032 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+340953 319948 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+351457 340953 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+405866 351457 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+478684 405866 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+581835 478684 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 581835 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+654180 654180 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Opening Balance Lifted_Daily 0
+Opening Balance Lifted_Weekly 0
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT ZZZ**Bloomfield NM - HEP - T100** DO NOT USE BLOOMFIELD-GAS
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT ZZZ**Bloomfield NM - HEP - T100** DO NOT USE G
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT ZZZ**Sidney NE-PLAINSSID (HFC)-T218 DO NOT USE** SIDNEY DIESEL
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Holly PILOT TRAVEL CENTERS LLC - PRODUCT ZZZ**Sidney NE-PLAINSSID (HFC)-T218 DO NOT USE** SIDNEY GASOLINE
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+Rows  0 Deleted Successfully
+Deletion Success
+Completed Execution Thanks for you Patience 
+0:00:23.337000
+Execution Started Please Wait.....

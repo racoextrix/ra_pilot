@@ -1,0 +1,3253 @@
+Entities thread id: 6095376
+base_gallons_Monthly  Not found! Inserted it...
+lifted_gallons_Monthly  Not found! Inserted it...
+beginning_gallons_Monthly  Not found! Inserted it...
+en_allocation_status_Monthly  Not found! Inserted it...
+percentage_allocation_Monthly  Not found! Inserted it...
+alerts_ratability_Monthly  Not found! Inserted it...
+next_refresh_date_Monthly  Not found! Inserted it...
+***** Execution in Combination: pilot BP Channel: 50 - Commercial CANTON OH - BUCKEYE (PLANT 9180) PREMIUM
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                  10523
+2015-08-07                   w1                    -1                  13421
+2015-08-08                   w1                    -1                  14720
+2015-08-09                   w1                    -1                  15923
+2015-08-10                   w1                    -1                  18124
+2015-08-11                   w1                    -1                  18124
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                    -1                      0
+2015-08-13                   w2                    -1                      0
+2015-08-14                   w2                    -1                   1200
+2015-08-15                   w2                    -1                   3800
+2015-08-16                   w2                    -1                   4805
+2015-08-17                   w2                    -1                   8916
+2015-08-18                   w2                    -1                  13418
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                    -1                      0
+2015-08-20                   w3                    -1                      0
+2015-08-21                   w3                    -1                   3904
+2015-08-22                   w3                    -1                   3904
+2015-08-23                   w3                    -1                   3904
+2015-08-24                   w3                    -1                   3904
+2015-08-25                   w3                    -1                   5106
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                    -1                    505
+2015-08-27                   w4                    -1                   1705
+2015-08-28                   w4                    -1                   7012
+2015-08-29                   w4                    -1                   8713
+2015-08-30                   w4                    -1                   8713
+2015-08-31                   w4                    -1                   9913
+Modification_Successful
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial CANTON OH - BUCKEYE (PLANT 9180) REGULAR
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                  9784                  54545
+2015-08-07                   w1                 33800                  95046
+2015-08-08                   w1                 16010                 111056
+2015-08-09                   w1                 16802                 127858
+2015-08-10                   w1                 48795                 176653
+2015-08-11                   w1                 16801                 193454
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                     0                      0
+2015-08-13                   w2                     0                      0
+2015-08-14                   w2                 24896                  24896
+2015-08-15                   w2                 20811                  45707
+2015-08-16                   w2                 16996                  62703
+2015-08-17                   w2                 39229                 101932
+2015-08-18                   w2                 29218                 131150
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                     0                      0
+2015-08-20                   w3                     0                      0
+2015-08-21                   w3                 39717                  39717
+2015-08-22                   w3                 32812                  72529
+2015-08-23                   w3                     0                  72529
+2015-08-24                   w3                 51863                 124392
+2015-08-25                   w3                 32517                 156909
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                 23826                  23826
+2015-08-27                   w4                 59126                  82952
+2015-08-28                   w4                 46319                 129271
+2015-08-29                   w4                 15802                 145073
+2015-08-30                   w4                 17806                 162879
+2015-08-31                   w4                 25200                 188079
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial CEDAR RAPIDS IA - BUCKEYE (PLANT 9120) DIESEL
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+2015-08-26 00:00:00 3
+2015-08-27 00:00:00 3
+2015-08-28 00:00:00 3
+2015-08-29 00:00:00 3
+2015-08-30 00:00:00 3
+2015-08-31 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w3
+2015-08-27    w3
+2015-08-28    w3
+2015-08-29    w3
+2015-08-30    w3
+2015-08-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                 59499                 134247
+2015-08-07                   w1                 67033                 201280
+2015-08-08                   w1                 52701                 261380
+2015-08-09                   w1                 22347                 283727
+2015-08-10                   w1                 29801                 313528
+2015-08-11                   w1                     0                 313528
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 66887                  66887
+2015-08-13                   w2                 67247                 134134
+2015-08-14                   w2                 29794                 163928
+2015-08-15                   w2                 22288                 193616
+2015-08-16                   w2                 37050                 230666
+2015-08-17                   w2                  7400                 238066
+2015-08-18                   w2                     0                 238066
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                     0                      0
+2015-08-20                   w3                     0                      0
+2015-08-21                   w3                     0                      0
+2015-08-22                   w3                     0                      0
+2015-08-23                   w3                     0                      0
+2015-08-24                   w3                     0                      0
+2015-08-25                   w3                     0                      0
+2015-08-26                   w3                     0                      0
+2015-08-27                   w3                     0                      0
+2015-08-28                   w3                     0                      0
+2015-08-29                   w3                     0                      0
+2015-08-30                   w3                     0                      0
+2015-08-31                   w3                 14864                  14864
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial CORALVILLE IA - MAGELLAN (PLANT 3385) DIESEL
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+2015-08-12 00:00:00 1
+2015-08-13 00:00:00 1
+2015-08-14 00:00:00 1
+2015-08-15 00:00:00 1
+2015-08-16 00:00:00 1
+2015-08-17 00:00:00 1
+2015-08-18 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 2
+2015-08-20 00:00:00 2
+2015-08-21 00:00:00 2
+2015-08-22 00:00:00 2
+2015-08-23 00:00:00 2
+2015-08-24 00:00:00 2
+2015-08-25 00:00:00 2
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 3
+2015-08-27 00:00:00 3
+2015-08-28 00:00:00 3
+2015-08-29 00:00:00 3
+2015-08-30 00:00:00 3
+2015-08-31 00:00:00 3
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w1
+2015-08-13    w1
+2015-08-14    w1
+2015-08-15    w1
+2015-08-16    w1
+2015-08-17    w1
+2015-08-18    w1
+2015-08-19    w2
+2015-08-20    w2
+2015-08-21    w2
+2015-08-22    w2
+2015-08-23    w2
+2015-08-24    w2
+2015-08-25    w2
+2015-08-26    w3
+2015-08-27    w3
+2015-08-28    w3
+2015-08-29    w3
+2015-08-30    w3
+2015-08-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                      0
+2015-08-07                   w1                    -1                      0
+2015-08-08                   w1                    -1                      0
+2015-08-09                   w1                    -1                      0
+2015-08-10                   w1                    -1                      0
+2015-08-11                   w1                    -1                      0
+2015-08-12                   w1                     0                      0
+2015-08-13                   w1                     0                      0
+2015-08-14                   w1                     0                      0
+2015-08-15                   w1                     0                      0
+2015-08-16                   w1                     0                      0
+2015-08-17                   w1                 23302                  23302
+2015-08-18                   w1                 52099                  75401
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w2                 44918                  44918
+2015-08-20                   w2                 67137                 119555
+2015-08-21                   w2                 68643                 188198
+2015-08-22                   w2                 47805                 236003
+2015-08-23                   w2                 22603                 258606
+2015-08-24                   w2                 18198                 276804
+2015-08-25                   w2                 47661                 324465
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w3                 67167                  67167
+2015-08-27                   w3                 66974                 134141
+2015-08-28                   w3                 63611                 197752
+2015-08-29                   w3                 63106                 260858
+2015-08-30                   w3                 37296                 298154
+2015-08-31                   w3                  7502                 305656
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial CUYAHOGA OH - BUCKEYE (PLANT 9178) DIESEL
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                 60647                  90845
+2015-08-07                   w1                     0                  90845
+2015-08-08                   w1                 82936                 173781
+2015-08-09                   w1                 60438                 234219
+2015-08-10                   w1                 83384                 317603
+2015-08-11                   w1                     0                 317603
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                     0                      0
+2015-08-13                   w2                 37766                  37766
+2015-08-14                   w2                 90991                 128757
+2015-08-15                   w2                 30316                 159073
+2015-08-16                   w2                 22698                 181771
+2015-08-17                   w2                 52578                 234349
+2015-08-18                   w2                 37722                 272071
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                 45408                  45408
+2015-08-20                   w3                 53183                 106193
+2015-08-21                   w3                 38011                 144204
+2015-08-22                   w3                 38011                 182215
+2015-08-23                   w3                 37896                 220111
+2015-08-24                   w3                 22655                 242766
+2015-08-25                   w3                 75853                 318619
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                 83081                  83081
+2015-08-27                   w4                 22806                 105887
+2015-08-28                   w4                 75757                 181644
+2015-08-29                   w4                 22662                 204306
+2015-08-30                   w4                 22810                 227116
+2015-08-31                   w4                 45520                 272636
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial CUYAHOGA OH - BUCKEYE (PLANT 9178) PREMIUM
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                   2199
+2015-08-07                   w1                    -1                   2199
+2015-08-08                   w1                    -1                   3404
+2015-08-09                   w1                    -1                   3404
+2015-08-10                   w1                    -1                   3404
+2015-08-11                   w1                    -1                   3404
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                    -1                      0
+2015-08-13                   w2                    -1                      0
+2015-08-14                   w2                    -1                   1205
+2015-08-15                   w2                    -1                   2211
+2015-08-16                   w2                    -1                   4111
+2015-08-17                   w2                    -1                   4111
+2015-08-18                   w2                    -1                   4111
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                    -1                      0
+2015-08-20                   w3                    -1                   1004
+2015-08-21                   w3                    -1                   1004
+2015-08-22                   w3                    -1                   1004
+2015-08-23                   w3                    -1                   1004
+2015-08-24                   w3                    -1                   1004
+2015-08-25                   w3                    -1                   1004
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                    -1                      0
+2015-08-27                   w4                    -1                   2301
+2015-08-28                   w4                    -1                   2301
+2015-08-29                   w4                    -1                   2301
+2015-08-30                   w4                    -1                   2301
+2015-08-31                   w4                    -1                   2301
+Modification_Successful
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial CUYAHOGA OH - BUCKEYE (PLANT 9178) REGULAR
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                 32809                  41811
+2015-08-07                   w1                  8999                  50810
+2015-08-08                   w1                 24706                  75516
+2015-08-09                   w1                  8655                  84171
+2015-08-10                   w1                     0                  84171
+2015-08-11                   w1                     0                  84171
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                     0                      0
+2015-08-13                   w2                     0                      0
+2015-08-14                   w2                 16207                  16207
+2015-08-15                   w2                 16409                  32616
+2015-08-16                   w2                  6805                  39421
+2015-08-17                   w2                 25906                  65327
+2015-08-18                   w2                  8704                  74031
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                     0                      0
+2015-08-20                   w3                  7705                   7705
+2015-08-21                   w3                  9002                  16707
+2015-08-22                   w3                  8705                  25412
+2015-08-23                   w3                 17656                  43068
+2015-08-24                   w3                  8652                  51720
+2015-08-25                   w3                  8655                  60375
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                  8705                   8705
+2015-08-27                   w4                 23705                  32410
+2015-08-28                   w4                  8702                  41112
+2015-08-29                   w4                 17509                  58621
+2015-08-30                   w4                  9000                  67621
+2015-08-31                   w4                  8905                  76526
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial EAST CHICAGO IN - BUCKEYE (PLANT 6410) DIESEL
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+2015-08-19 00:00:00 2
+2015-08-20 00:00:00 2
+2015-08-21 00:00:00 2
+2015-08-22 00:00:00 2
+2015-08-23 00:00:00 2
+2015-08-24 00:00:00 2
+2015-08-25 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 3
+2015-08-27 00:00:00 3
+2015-08-28 00:00:00 3
+2015-08-29 00:00:00 3
+2015-08-30 00:00:00 3
+2015-08-31 00:00:00 3
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w2
+2015-08-20    w2
+2015-08-21    w2
+2015-08-22    w2
+2015-08-23    w2
+2015-08-24    w2
+2015-08-25    w2
+2015-08-26    w3
+2015-08-27    w3
+2015-08-28    w3
+2015-08-29    w3
+2015-08-30    w3
+2015-08-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                      0
+2015-08-07                   w1                    -1                      0
+2015-08-08                   w1                    -1                      0
+2015-08-09                   w1                    -1                      0
+2015-08-10                   w1                    -1                      0
+2015-08-11                   w1                    -1                      0
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                    -1                     -1
+2015-08-13                   w2                    -1                     -1
+2015-08-14                   w2                    -1                     -1
+2015-08-15                   w2                    -1                     -1
+2015-08-16                   w2                    -1                     -1
+2015-08-17                   w2                    -1                     -1
+2015-08-18                   w2                    -1                     -1
+2015-08-19                   w2                    -1                     -1
+2015-08-20                   w2                     0                      0
+2015-08-21                   w2                     0                      0
+2015-08-22                   w2                     0                      0
+2015-08-23                   w2                     0                      0
+2015-08-24                   w2                 22509                  22509
+2015-08-25                   w2                 63619                  86128
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w3                 15012                  15012
+2015-08-27                   w3                 14900                  37418
+2015-08-28                   w3                     0                  37418
+2015-08-29                   w3                     0                  37418
+2015-08-30                   w3                     0                  37418
+2015-08-31                   w3                     0                  37418
+Modification_Successful
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial EAST CHICAGO IN - BUCKEYE (PLANT 6410) PREMIUM
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+2015-08-19 00:00:00 2
+2015-08-20 00:00:00 2
+2015-08-21 00:00:00 2
+2015-08-22 00:00:00 2
+2015-08-23 00:00:00 2
+2015-08-24 00:00:00 2
+2015-08-25 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 3
+2015-08-27 00:00:00 3
+2015-08-28 00:00:00 3
+2015-08-29 00:00:00 3
+2015-08-30 00:00:00 3
+2015-08-31 00:00:00 3
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w2
+2015-08-20    w2
+2015-08-21    w2
+2015-08-22    w2
+2015-08-23    w2
+2015-08-24    w2
+2015-08-25    w2
+2015-08-26    w3
+2015-08-27    w3
+2015-08-28    w3
+2015-08-29    w3
+2015-08-30    w3
+2015-08-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                      0
+2015-08-07                   w1                    -1                      0
+2015-08-08                   w1                    -1                      0
+2015-08-09                   w1                    -1                      0
+2015-08-10                   w1                    -1                      0
+2015-08-11                   w1                    -1                      0
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                    -1                     -1
+2015-08-13                   w2                    -1                     -1
+2015-08-14                   w2                    -1                     -1
+2015-08-15                   w2                    -1                     -1
+2015-08-16                   w2                    -1                     -1
+2015-08-17                   w2                    -1                     -1
+2015-08-18                   w2                    -1                     -1
+2015-08-19                   w2                    -1                     -1
+2015-08-20                   w2                     0                      0
+2015-08-21                   w2                     0                      0
+2015-08-22                   w2                     0                      0
+2015-08-23                   w2                     0                      0
+2015-08-24                   w2                     0                      0
+2015-08-25                   w2                    -1                   4100
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w3                    -1                      0
+2015-08-27                   w3                    -1                      0
+2015-08-28                   w3                    -1                      0
+2015-08-29                   w3                    -1                   1100
+2015-08-30                   w3                    -1                   2300
+2015-08-31                   w3                    -1                   4800
+Modification_Successful
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial EAST CHICAGO IN - BUCKEYE (PLANT 6410) REGULAR
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+2015-08-19 00:00:00 2
+2015-08-20 00:00:00 2
+2015-08-21 00:00:00 2
+2015-08-22 00:00:00 2
+2015-08-23 00:00:00 2
+2015-08-24 00:00:00 2
+2015-08-25 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 3
+2015-08-27 00:00:00 3
+2015-08-28 00:00:00 3
+2015-08-29 00:00:00 3
+2015-08-30 00:00:00 3
+2015-08-31 00:00:00 3
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w2
+2015-08-20    w2
+2015-08-21    w2
+2015-08-22    w2
+2015-08-23    w2
+2015-08-24    w2
+2015-08-25    w2
+2015-08-26    w3
+2015-08-27    w3
+2015-08-28    w3
+2015-08-29    w3
+2015-08-30    w3
+2015-08-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                      0
+2015-08-07                   w1                    -1                      0
+2015-08-08                   w1                    -1                      0
+2015-08-09                   w1                    -1                      0
+2015-08-10                   w1                    -1                      0
+2015-08-11                   w1                    -1                      0
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                    -1                     -1
+2015-08-13                   w2                    -1                     -1
+2015-08-14                   w2                    -1                     -1
+2015-08-15                   w2                    -1                     -1
+2015-08-16                   w2                    -1                     -1
+2015-08-17                   w2                    -1                     -1
+2015-08-18                   w2                    -1                     -1
+2015-08-19                   w2                    -1                     -1
+2015-08-20                   w2                     0                      0
+2015-08-21                   w2                     0                      0
+2015-08-22                   w2                  8800                   8800
+2015-08-23                   w2                     0                   8800
+2015-08-24                   w2                  8802                  17602
+2015-08-25                   w2                     0                  17602
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w3                  7400                   7400
+2015-08-27                   w3                     0                   7400
+2015-08-28                   w3                     0                   7400
+2015-08-29                   w3                  7399                  14799
+2015-08-30                   w3                  7500                  22299
+2015-08-31                   w3                  4901                  27200
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial INDIANAPOLIS IN - BP (PLANT 0452) DIESEL
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                376510                 683546
+2015-08-07                   w1                429087                1120134
+2015-08-08                   w1                173125                1293259
+2015-08-09                   w1                136065                1429324
+2015-08-10                   w1                175677                1605001
+2015-08-11                   w1                144859                1749860
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                234911                 234911
+2015-08-13                   w2                 47769                 282680
+2015-08-14                   w2                188424                 471104
+2015-08-15                   w2                157555                 628659
+2015-08-16                   w2                131898                 760557
+2015-08-17                   w2                287486                1048043
+2015-08-18                   w2                350157                1398200
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                290777                 290777
+2015-08-20                   w3                315183                 635909
+2015-08-21                   w3                291335                 927244
+2015-08-22                   w3                133642                1060886
+2015-08-23                   w3                156336                1217222
+2015-08-24                   w3                194394                1411616
+2015-08-25                   w3                393397                1805013
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                321817                 321817
+2015-08-27                   w4                341359                 663176
+2015-08-28                   w4                227935                 891111
+2015-08-29                   w4                174435                1065546
+2015-08-30                   w4                128316                1193862
+2015-08-31                   w4                187725                1381587
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial INDIANAPOLIS IN - BP (PLANT 0452) PREMIUM
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                   6908
+2015-08-07                   w1                    -1                  10192
+2015-08-08                   w1                    -1                  17094
+2015-08-09                   w1                    -1                  18294
+2015-08-10                   w1                    -1                  18294
+2015-08-11                   w1                    -1                  19493
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                  1199                   1199
+2015-08-13                   w2                  1199                   2398
+2015-08-14                   w2                  2400                   4798
+2015-08-15                   w2                     0                   4798
+2015-08-16                   w2                     0                   4798
+2015-08-17                   w2                  1002                   5800
+2015-08-18                   w2                  2906                   8706
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                  1200                   1200
+2015-08-20                   w3                  4399                   5599
+2015-08-21                   w3                     0                   5599
+2015-08-22                   w3                     0                   5599
+2015-08-23                   w3                  5800                  11399
+2015-08-24                   w3                  1202                  12601
+2015-08-25                   w3                  1100                  13701
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                  2404                   2404
+2015-08-27                   w4                    -1                   3505
+2015-08-28                   w4                    -1                   7105
+2015-08-29                   w4                    -1                  12717
+2015-08-30                   w4                    -1                  18724
+2015-08-31                   w4                    -1                  22326
+Modification_Successful
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial INDIANAPOLIS IN - BP (PLANT 0452) REGULAR
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                105041                 147141
+2015-08-07                   w1                 80526                 227667
+2015-08-08                   w1                 60950                 288617
+2015-08-09                   w1                 45101                 333718
+2015-08-10                   w1                     0                 333718
+2015-08-11                   w1                     0                 333718
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 38521                  38521
+2015-08-13                   w2                 57026                  95547
+2015-08-14                   w2                 54651                 150198
+2015-08-15                   w2                 16500                 166698
+2015-08-16                   w2                     0                 166698
+2015-08-17                   w2                 22949                 189647
+2015-08-18                   w2                 61711                 251358
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                 33218                  33218
+2015-08-20                   w3                 63323                 113922
+2015-08-21                   w3                  8825                 122747
+2015-08-22                   w3                     0                 122747
+2015-08-23                   w3                 19614                 142361
+2015-08-24                   w3                 42309                 184670
+2015-08-25                   w3                 27455                 212125
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                 57779                  57779
+2015-08-27                   w4                  7404                  65183
+2015-08-28                   w4                 79139                 144322
+2015-08-29                   w4                 95232                 239554
+2015-08-30                   w4                 84229                 323783
+2015-08-31                   w4                  7399                 331182
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial NAPOLEON MI - BUCKEYE (PLANT 9122) PREMIUM 9
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: pilot BP Channel: 50 - Commercial RIVER ROUGE MI - BUCKEYE (PLANT 9123) PREMIUM
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                   2998
+2015-08-07                   w1                    -1                   6996
+2015-08-08                   w1                    -1                   6996
+2015-08-09                   w1                    -1                  19193
+2015-08-10                   w1                    -1                  19193
+2015-08-11                   w1                    -1                  23191
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                  3005                   3005
+2015-08-13                   w2                     0                   3005
+2015-08-14                   w2                    -1                   3005
+2015-08-15                   w2                    -1                   5804
+2015-08-16                   w2                    -1                  11406
+2015-08-17                   w2                  4798                  16204
+2015-08-18                   w2                     0                  16204
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                   999                    999
+2015-08-20                   w3                     0                   2999
+2015-08-21                   w3                     0                   2999
+2015-08-22                   w3                     0                   2999
+2015-08-23                   w3                     0                   2999
+2015-08-24                   w3                     0                   2999
+2015-08-25                   w3                  1998                   4997
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                     0                      0
+2015-08-27                   w4                    -1                      0
+2015-08-28                   w4                    -1                      0
+2015-08-29                   w4                    -1                      0
+2015-08-30                   w4                    -1                   1999
+2015-08-31                   w4                    -1                   8999
+Modification_Successful
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial RIVER ROUGE MI - BUCKEYE (PLANT 9123) REGULAR
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                 48197                  80995
+2015-08-07                   w1                 33012                 114007
+2015-08-08                   w1                 35309                 149316
+2015-08-09                   w1                 20348                 169664
+2015-08-10                   w1                 26411                 196075
+2015-08-11                   w1                 41002                 237077
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 59902                  59902
+2015-08-13                   w2                  8602                  68504
+2015-08-14                   w2                    -1                  68504
+2015-08-15                   w2                    -1                  78102
+2015-08-16                   w2                    -1                 115995
+2015-08-17                   w2                 51016                 167011
+2015-08-18                   w2                 35114                 202125
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                 43811                  43811
+2015-08-20                   w3                 44493                  99705
+2015-08-21                   w3                 13399                 113104
+2015-08-22                   w3                 13399                 126503
+2015-08-23                   w3                 13397                 139900
+2015-08-24                   w3                 25408                 165308
+2015-08-25                   w3                 53103                 218411
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                 34011                  34011
+2015-08-27                   w4                 27007                  61018
+2015-08-28                   w4                 57310                 118328
+2015-08-29                   w4                 37416                 155744
+2015-08-30                   w4                 62698                 218442
+2015-08-31                   w4                 28206                 246648
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial ROCHELLE IL - BP (PLANT 0448) DIESEL
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                112306                 224330
+2015-08-07                   w1                 67834                 306266
+2015-08-08                   w1                 52639                 366506
+2015-08-09                   w1                 37275                 403781
+2015-08-10                   w1                 37241                 448521
+2015-08-11                   w1                 52255                 508191
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 97094                  97094
+2015-08-13                   w2                 94304                 191398
+2015-08-14                   w2                 97741                 289139
+2015-08-15                   w2                 22304                 311443
+2015-08-16                   w2                 44850                 363897
+2015-08-17                   w2                 44618                 415926
+2015-08-18                   w2                 95918                 511844
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                 74694                  74694
+2015-08-20                   w3                 74965                 187328
+2015-08-21                   w3                 81791                 269119
+2015-08-22                   w3                 67735                 336854
+2015-08-23                   w3                 29850                 374203
+2015-08-24                   w3                 74648                 448851
+2015-08-25                   w3                 74571                 523422
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                112176                 112176
+2015-08-27                   w4                111986                 224162
+2015-08-28                   w4                 97688                 321850
+2015-08-29                   w4                 60422                 389723
+2015-08-30                   w4                 29726                 419449
+2015-08-31                   w4                 14862                 434311
+Modification_Successful
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial SOUTH BEND IN - BUCKEYE (PLANT 9121) DIESEL
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                 60011                 142419
+2015-08-07                   w1                 96984                 239403
+2015-08-08                   w1                 74648                 314051
+2015-08-09                   w1                 67538                 381589
+2015-08-10                   w1                 90030                 471619
+2015-08-11                   w1                 60069                 531688
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 90011                  90011
+2015-08-13                   w2                 52399                 142410
+2015-08-14                   w2                 59899                 202309
+2015-08-15                   w2                 22213                 224522
+2015-08-16                   w2                 22099                 246621
+2015-08-17                   w2                 67209                 313830
+2015-08-18                   w2                111870                 425700
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                 52599                  52599
+2015-08-20                   w3                 82549                 142652
+2015-08-21                   w3                 59808                 202460
+2015-08-22                   w3                 51967                 254427
+2015-08-23                   w3                 14700                 269127
+2015-08-24                   w3                 59995                 329122
+2015-08-25                   w3                 67615                 396737
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                 67306                  67306
+2015-08-27                   w4                 82251                 149557
+2015-08-28                   w4                 67262                 216819
+2015-08-29                   w4                 89691                 306510
+2015-08-30                   w4                 81977                 388487
+2015-08-31                   w4                 45004                 433491
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial WARREN OH - BUCKEYE (PLANT 9182) DIESEL
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                 15300                  68616
+2015-08-07                   w1                  7601                  76217
+2015-08-08                   w1                 15414                  91631
+2015-08-09                   w1                 14444                 106075
+2015-08-10                   w1                 22800                 128875
+2015-08-11                   w1                 23008                 151883
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 22548                  22548
+2015-08-13                   w2                 22811                  45359
+2015-08-14                   w2                 30203                  75562
+2015-08-15                   w2                     0                  75562
+2015-08-16                   w2                  7601                  83163
+2015-08-17                   w2                 22720                 105883
+2015-08-18                   w2                 45402                 151285
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                 15154                  15154
+2015-08-20                   w3                 22800                  53080
+2015-08-21                   w3                 30311                  91042
+2015-08-22                   w3                     0                  98642
+2015-08-23                   w3                  7600                 106242
+2015-08-24                   w3                 15009                 121251
+2015-08-25                   w3                 45614                 166865
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                 37859                  37859
+2015-08-27                   w4                 45613                  83472
+2015-08-28                   w4                 15206                  98678
+2015-08-29                   w4                  7606                 106284
+2015-08-30                   w4                 23016                 129300
+2015-08-31                   w4                 23111                 152411
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial WHITING IN - BP (PLANT 0453) DIESEL
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                  7299                  36810
+2015-08-07                   w1                 36916                  73726
+2015-08-08                   w1                 29925                 103651
+2015-08-09                   w1                 36463                 140114
+2015-08-10                   w1                 44419                 184533
+2015-08-11                   w1                 36515                 235949
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 44622                  44622
+2015-08-13                   w2                 44619                  89241
+2015-08-14                   w2                 14604                 103845
+2015-08-15                   w2                 22312                 133663
+2015-08-16                   w2                  7410                 148381
+2015-08-17                   w2                 37515                 193395
+2015-08-18                   w2                     0                 193395
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                 37118                  37118
+2015-08-20                   w3                 44626                  89251
+2015-08-21                   w3                 22421                 111672
+2015-08-22                   w3                 29815                 141487
+2015-08-23                   w3                  7501                 148988
+2015-08-24                   w3                 30018                 179006
+2015-08-25                   w3                     0                 179006
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                     0                      0
+2015-08-27                   w4                 14808                  14808
+2015-08-28                   w4                 36814                  59123
+2015-08-29                   w4                 37215                  96338
+2015-08-30                   w4                 30109                 126447
+2015-08-31                   w4                 22349                 148796
+Modification_Successful
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial WHITING IN - BP (PLANT 0453) PREMIUM
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+2015-08-26 00:00:00 3
+2015-08-27 00:00:00 3
+2015-08-28 00:00:00 3
+2015-08-29 00:00:00 3
+2015-08-30 00:00:00 3
+2015-08-31 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w3
+2015-08-27    w3
+2015-08-28    w3
+2015-08-29    w3
+2015-08-30    w3
+2015-08-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                      0
+2015-08-07                   w1                    -1                   1101
+2015-08-08                   w1                    -1                   2303
+2015-08-09                   w1                    -1                   3402
+2015-08-10                   w1                    -1                   4603
+2015-08-11                   w1                    -1                   6203
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                  1104                   1104
+2015-08-13                   w2                  1204                   2308
+2015-08-14                   w2                     0                   2308
+2015-08-15                   w2                     0                   2308
+2015-08-16                   w2                     0                   2308
+2015-08-17                   w2                     0                   2308
+2015-08-18                   w2                     0                   2308
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                     0                      0
+2015-08-20                   w3                     0                      0
+2015-08-21                   w3                     0                      0
+2015-08-22                   w3                     0                      0
+2015-08-23                   w3                     0                      0
+2015-08-24                   w3                     0                      0
+2015-08-25                   w3                     0                      0
+2015-08-26                   w3                    -1                      0
+2015-08-27                   w3                    -1                      0
+2015-08-28                   w3                    -1                      0
+2015-08-29                   w3                    -1                      0
+2015-08-30                   w3                    -1                      0
+2015-08-31                   w3                    -1                      0
+Modification_Successful
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial WHITING IN - BP (PLANT 0453) REGULAR
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D')]
+2015-08-14 00:00:00 3
+2015-08-15 00:00:00 3
+2015-08-16 00:00:00 3
+2015-08-17 00:00:00 3
+2015-08-18 00:00:00 3
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+2015-08-26 00:00:00 3
+2015-08-27 00:00:00 3
+2015-08-28 00:00:00 3
+2015-08-29 00:00:00 3
+2015-08-30 00:00:00 3
+2015-08-31 00:00:00 3
+[Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w3
+2015-08-15    w3
+2015-08-16    w3
+2015-08-17    w3
+2015-08-18    w3
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w3
+2015-08-27    w3
+2015-08-28    w3
+2015-08-29    w3
+2015-08-30    w3
+2015-08-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                     0                      0
+2015-08-07                   w1                  7400                   7400
+2015-08-08                   w1                 15904                  23304
+2015-08-09                   w1                 16205                  39509
+2015-08-10                   w1                 25017                  64526
+2015-08-11                   w1                  6998                  71524
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                  7605                   7605
+2015-08-13                   w2                  7510                  15115
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-14                   w3                    -1                     -1
+2015-08-15                   w3                    -1                     -1
+2015-08-16                   w3                    -1                     -1
+2015-08-17                   w3                    -1                     -1
+2015-08-18                   w3                    -1                     -1
+2015-08-19                   w3                    -1                     -1
+2015-08-20                   w3                    -1                     -1
+2015-08-21                   w3                    -1                     -1
+2015-08-22                   w3                    -1                     -1
+2015-08-23                   w3                    -1                     -1
+2015-08-24                   w3                    -1                     -1
+2015-08-25                   w3                    -1                     -1
+2015-08-26                   w3                    -1                     -1
+2015-08-27                   w3                    -1                     -1
+2015-08-28                   w3                    -1                     -1
+2015-08-29                   w3                    -1                     -1
+2015-08-30                   w3                    -1                     -1
+2015-08-31                   w3                    -1                     -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial DES MOINES IA - MAGELLAN (PLANT 0320) DIESEL
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: pilot BP Channel: 50 - Commercial OMAHA NE - MAGELLAN (PLANT 0351) DIESEL
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: pilot BP Channel: 50 - Commercial DETROIT MI - BUCKEYE (PLANT 0564) PREMIUM
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: pilot BP Channel: 50 - Commercial DETROIT MI - BUCKEYE (PLANT 0564) REGULAR
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: pilot BP Channel: 50 - Commercial INDIANAPOLIS IN - BUCKEYE RACEWY (PLANT 8763) DIESEL
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: pilot BP Channel: 50 - Commercial INDIANAPOLIS IN - BUCKEYE RACEWY (PLANT 8763) PREMIUM
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+2015-08-12 00:00:00 1
+2015-08-13 00:00:00 1
+2015-08-14 00:00:00 1
+2015-08-15 00:00:00 1
+2015-08-16 00:00:00 1
+2015-08-17 00:00:00 1
+2015-08-18 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 2
+[Timestamp('2015-08-19 00:00:00', offset='D')]
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+2015-08-26 00:00:00 3
+2015-08-27 00:00:00 3
+2015-08-28 00:00:00 3
+2015-08-29 00:00:00 3
+2015-08-30 00:00:00 3
+2015-08-31 00:00:00 3
+[Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w1
+2015-08-13    w1
+2015-08-14    w1
+2015-08-15    w1
+2015-08-16    w1
+2015-08-17    w1
+2015-08-18    w1
+2015-08-19    w2
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w3
+2015-08-27    w3
+2015-08-28    w3
+2015-08-29    w3
+2015-08-30    w3
+2015-08-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                    -1                     -1
+2015-08-08                   w1                    -1                     -1
+2015-08-09                   w1                    -1                     -1
+2015-08-10                   w1                    -1                     -1
+2015-08-11                   w1                    -1                     -1
+2015-08-12                   w1                    -1                     -1
+2015-08-13                   w1                    -1                     -1
+2015-08-14                   w1                    -1                     -1
+2015-08-15                   w1                    -1                     -1
+2015-08-16                   w1                    -1                     -1
+2015-08-17                   w1                     0                      0
+2015-08-18                   w1                  1204                   1204
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w2                     0                      0
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-20                   w3                    -1                     -1
+2015-08-21                   w3                    -1                     -1
+2015-08-22                   w3                    -1                     -1
+2015-08-23                   w3                    -1                     -1
+2015-08-24                   w3                    -1                     -1
+2015-08-25                   w3                    -1                     -1
+2015-08-26                   w3                    -1                     -1
+2015-08-27                   w3                    -1                     -1
+2015-08-28                   w3                    -1                     -1
+2015-08-29                   w3                    -1                     -1
+2015-08-30                   w3                    -1                     -1
+2015-08-31                   w3                    -1                     -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot BP Channel: 50 - Commercial INDIANAPOLIS IN - BUCKEYE RACEWY (PLANT 8763) REGULAR
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+2015-08-12 00:00:00 1
+2015-08-13 00:00:00 1
+2015-08-14 00:00:00 1
+2015-08-15 00:00:00 1
+2015-08-16 00:00:00 1
+2015-08-17 00:00:00 1
+2015-08-18 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 2
+[Timestamp('2015-08-19 00:00:00', offset='D')]
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+2015-08-26 00:00:00 3
+2015-08-27 00:00:00 3
+2015-08-28 00:00:00 3
+2015-08-29 00:00:00 3
+2015-08-30 00:00:00 3
+2015-08-31 00:00:00 3
+[Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D'), Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w1
+2015-08-13    w1
+2015-08-14    w1
+2015-08-15    w1
+2015-08-16    w1
+2015-08-17    w1
+2015-08-18    w1
+2015-08-19    w2
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w3
+2015-08-27    w3
+2015-08-28    w3
+2015-08-29    w3
+2015-08-30    w3
+2015-08-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                    -1                     -1
+2015-08-08                   w1                    -1                     -1
+2015-08-09                   w1                    -1                     -1
+2015-08-10                   w1                    -1                     -1
+2015-08-11                   w1                    -1                     -1
+2015-08-12                   w1                    -1                     -1
+2015-08-13                   w1                    -1                     -1
+2015-08-14                   w1                    -1                     -1
+2015-08-15                   w1                    -1                     -1
+2015-08-16                   w1                    -1                     -1
+2015-08-17                   w1                     0                      0
+2015-08-18                   w1                  7409                   7409
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w2                     0                      0
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-20                   w3                    -1                     -1
+2015-08-21                   w3                    -1                     -1
+2015-08-22                   w3                    -1                     -1
+2015-08-23                   w3                    -1                     -1
+2015-08-24                   w3                    -1                     -1
+2015-08-25                   w3                    -1                     -1
+2015-08-26                   w3                    -1                     -1
+2015-08-27                   w3                    -1                     -1
+2015-08-28                   w3                    -1                     -1
+2015-08-29                   w3                    -1                     -1
+2015-08-30                   w3                    -1                     -1
+2015-08-31                   w3                    -1                     -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Rows  0 Deleted Successfully
+Deletion Success
+Completed Execution Thanks for you Patience 
+0:00:39.786000

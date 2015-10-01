@@ -1,0 +1,3334 @@
+Entities thread id: 6077136
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW BATON ROUGE LA (MOC) - 00CE Prem CG DS
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 6
+2015-07-31 00:00:00 6
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w6
+2015-07-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                     0                   6000
+Opening Balance Lifted_Daily 1200
+Opening Balance Lifted_Weekly 6000
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                  5500                   5500
+2015-07-03                   w2                     0                   5500
+2015-07-04                   w2                     0                   5500
+2015-07-05                   w2                     0                   5500
+2015-07-06                   w2                     0                   5500
+2015-07-07                   w2                  1200                   6700
+2015-07-08                   w2                     0                   6700
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                  1200                   1200
+2015-07-11                   w3                     0                   1200
+2015-07-12                   w3                     0                   1200
+2015-07-13                   w3                     0                   1200
+2015-07-14                   w3                  2303                   3503
+2015-07-15                   w3                  1200                   4703
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                  1900                   1900
+2015-07-17                   w4                  1200                   3100
+2015-07-18                   w4                  1250                   4350
+2015-07-19                   w4                     0                   4350
+2015-07-20                   w4                     0                   4350
+2015-07-21                   w4                  1200                   5550
+2015-07-22                   w4                     0                   5550
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                  1200                   1200
+2015-07-24                   w5                  1200                   2400
+2015-07-25                   w5                  1200                   3600
+2015-07-26                   w5                     0                   3600
+2015-07-27                   w5                  1100                   4700
+2015-07-28                   w5                  1000                   5700
+2015-07-29                   w5                     0                   5700
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w6                     0                      0
+2015-07-31                   w6                  1200                   1200
+-1 -1 5500
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 2303
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1900
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1250
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1100
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 1200
+Opening Balance Lifted_Weekly 6000
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW BATON ROUGE LA (MOC) - 00CE Reg CG DS
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 6
+2015-07-31 00:00:00 6
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w6
+2015-07-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                     0                  89302
+Opening Balance Lifted_Daily 16801
+Opening Balance Lifted_Weekly 89302
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                     0                      0
+2015-07-03                   w2                  9000                  15800
+2015-07-04                   w2                  7600                  32400
+2015-07-05                   w2                  9000                  41400
+2015-07-06                   w2                     0                  50300
+2015-07-07                   w2                 16200                  84400
+2015-07-08                   w2                     0                  84400
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                 21300                  27300
+2015-07-11                   w3                     0                  27300
+2015-07-12                   w3                 17700                  45000
+2015-07-13                   w3                     0                  45000
+2015-07-14                   w3                 24601                  69601
+2015-07-15                   w3                  7700                  77301
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                  6800                   6800
+2015-07-17                   w4                 17600                  24400
+2015-07-18                   w4                  7750                  32150
+2015-07-19                   w4                     0                  32150
+2015-07-20                   w4                     0                  32150
+2015-07-21                   w4                 17000                  49150
+2015-07-22                   w4                 18001                  67151
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                  8000                   8000
+2015-07-24                   w5                 17000                  25000
+2015-07-25                   w5                 16901                  41901
+2015-07-26                   w5                 25598                  67499
+2015-07-27                   w5                 13101                  80600
+2015-07-28                   w5                  8000                  88600
+2015-07-29                   w5                     0                  88600
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w6                  9000                   9000
+2015-07-31                   w6                 17001                  26001
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 9000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7600
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 9000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 16200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 21300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 17700
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 24601
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7700
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 6800
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 17600
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7750
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 17000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 18001
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 17000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 16901
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 25598
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 13101
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 9000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 17001
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 16801
+Opening Balance Lifted_Weekly 89302
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW BATON ROUGE LA (MOC) - 00CE ULSD
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 6
+2015-07-31 00:00:00 6
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w6
+2015-07-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                 38700                 260607
+Opening Balance Lifted_Daily 30900
+Opening Balance Lifted_Weekly 221907
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                 42700                  42700
+2015-07-03                   w2                 15600                  58300
+2015-07-04                   w2                     0                  70301
+2015-07-05                   w2                     0                  78101
+2015-07-06                   w2                  7800                  93811
+2015-07-07                   w2                 53902                 155513
+2015-07-08                   w2                 15400                 170913
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                 54000                  94700
+2015-07-11                   w3                 39720                 134420
+2015-07-12                   w3                 39510                 173930
+2015-07-13                   w3                 39000                 212930
+2015-07-14                   w3                 39000                 251930
+2015-07-15                   w3                  7800                 259730
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                 38401                  38401
+2015-07-17                   w4                 23400                  61801
+2015-07-18                   w4                 15800                  77601
+2015-07-19                   w4                 23500                 101101
+2015-07-20                   w4                 23510                 124611
+2015-07-21                   w4                 39100                 163711
+2015-07-22                   w4                 31100                 194811
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                 38802                  38802
+2015-07-24                   w5                 39000                  77802
+2015-07-25                   w5                 26935                 104737
+2015-07-26                   w5                 38800                 143537
+2015-07-27                   w5                 41501                 185038
+2015-07-28                   w5                 39400                 224438
+2015-07-29                   w5                 15600                 240038
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w6                 39100                  39100
+2015-07-31                   w6                 38700                  77800
+-1 -1 42700
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 15600
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7800
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 53902
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 15400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 54000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 39720
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 39510
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 39000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 39000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7800
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 38401
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 23400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 15800
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 23500
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 23510
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 39100
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 31100
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 38802
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 39000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 26935
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 38800
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 41501
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 39400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 15600
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 39100
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 38700
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 30900
+Opening Balance Lifted_Weekly 221907
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW COLTON CA KM TP - 00WM Premium Conventional / E10
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 6
+2015-07-31 00:00:00 6
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w6
+2015-07-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                     0                  18705
+Opening Balance Lifted_Daily 1003
+Opening Balance Lifted_Weekly 18705
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                  5103                   5103
+2015-07-03                   w2                   804                   5907
+2015-07-04                   w2                  1900                   8609
+2015-07-05                   w2                  1200                   9809
+2015-07-06                   w2                     0                  10611
+2015-07-07                   w2                  5700                  16311
+2015-07-08                   w2                     0                  16311
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                     0                   1200
+2015-07-11                   w3                  1200                   2400
+2015-07-12                   w3                  4114                   6514
+2015-07-13                   w3                  3508                  10022
+2015-07-14                   w3                  4700                  14722
+2015-07-15                   w3                     0                  14722
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                  4900                   4900
+2015-07-17                   w4                   804                   5704
+2015-07-18                   w4                  5003                  10707
+2015-07-19                   w4                  5411                  16118
+2015-07-20                   w4                     0                  16118
+2015-07-21                   w4                     0                  16118
+2015-07-22                   w4                     0                  16118
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                   804                    804
+2015-07-24                   w5                  2300                   3104
+2015-07-25                   w5                     0                   3104
+2015-07-26                   w5                  1200                   4304
+2015-07-27                   w5                  1200                   5504
+2015-07-28                   w5                     0                   6304
+2015-07-29                   w5                     0                   6304
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w6                  1200                   1200
+2015-07-31                   w6                     0                   1200
+-1 -1 5103
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 804
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1900
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 5700
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 4114
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 3508
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 4700
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 4900
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 804
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 5003
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 5411
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 804
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 2300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+53455 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+54655 53455 1200
+54655 54655 0
+Last Day is Assumed to be true!
+Opening Balance Lifted_Daily 1003
+Opening Balance Lifted_Weekly 18705
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW COLTON CA KM TP - 00WM Regular RFG
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 6
+2015-07-31 00:00:00 6
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w6
+2015-07-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                     0                  96018
+Opening Balance Lifted_Daily 7303
+Opening Balance Lifted_Weekly 96018
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                 11899                  11899
+2015-07-03                   w2                 16206                  28105
+2015-07-04                   w2                  5400                  33505
+2015-07-05                   w2                  7300                  49305
+2015-07-06                   w2                     0                  49305
+2015-07-07                   w2                     0                  57807
+2015-07-08                   w2                     0                  57807
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                     0                  15810
+2015-07-11                   w3                  9400                  25210
+2015-07-12                   w3                 10412                  35622
+2015-07-13                   w3                 13507                  49129
+2015-07-14                   w3                     0                  49129
+2015-07-15                   w3                     0                  49129
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                  8401                   8401
+2015-07-17                   w4                  7707                  16108
+2015-07-18                   w4                 12307                  28415
+2015-07-19                   w4                  8502                  36917
+2015-07-20                   w4                  7300                  44217
+2015-07-21                   w4                 12100                  56317
+2015-07-22                   w4                     0                  56317
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                 19010                  19010
+2015-07-24                   w5                 11211                  30221
+2015-07-25                   w5                  8400                  38621
+2015-07-26                   w5                  7300                  45921
+2015-07-27                   w5                  7300                  53221
+2015-07-28                   w5                     0                  53221
+2015-07-29                   w5                     0                  53221
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w6                     0                      0
+2015-07-31                   w6                     0                      0
+-1 -1 11899
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 16206
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 5400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 9400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 10412
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 13507
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8401
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7707
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 12307
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8502
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 12100
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 19010
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 11211
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+216474 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+216474 216474 0
+216474 216474 0
+Last Day is Assumed to be true!
+Opening Balance Lifted_Daily 7303
+Opening Balance Lifted_Weekly 96018
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW DES PLAINES IL (MOC) - 00BN ULSD
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 6
+2015-07-31 00:00:00 6
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w6
+2015-07-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                 29798                 141573
+Opening Balance Lifted_Daily 14894
+Opening Balance Lifted_Weekly 111775
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                 22362                  22362
+2015-07-03                   w2                 14850                  44662
+2015-07-04                   w2                     0                  52065
+2015-07-05                   w2                     0                  59467
+2015-07-06                   w2                  7451                  74371
+2015-07-07                   w2                 14915                 104190
+2015-07-08                   w2                  7458                 126498
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                 22364                  44721
+2015-07-11                   w3                 14902                  59623
+2015-07-12                   w3                  7451                  67074
+2015-07-13                   w3                 22364                  89438
+2015-07-14                   w3                 29815                 119253
+2015-07-15                   w3                 22365                 141618
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                 22365                  22365
+2015-07-17                   w4                 14909                  37274
+2015-07-18                   w4                 22363                  59637
+2015-07-19                   w4                  7451                  67088
+2015-07-20                   w4                 14912                  82000
+2015-07-21                   w4                 22363                 111814
+2015-07-22                   w4                 22364                 141629
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                 22358                  22358
+2015-07-24                   w5                 22363                  44721
+2015-07-25                   w5                 14900                  59621
+2015-07-26                   w5                  7451                  67072
+2015-07-27                   w5                 29366                  96438
+2015-07-28                   w5                 29817                 126255
+2015-07-29                   w5                 22373                 148628
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w6                 29809                  29809
+2015-07-31                   w6                 22360                  59620
+Modification_Successful
+-1 -1 22362
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 14850
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7451
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 14915
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7458
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 22364
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 14902
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7451
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 22364
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29815
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 22365
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 22365
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 14909
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 22363
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7451
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 14912
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 22363
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 22364
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 22358
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 22363
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 14900
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7451
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29366
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29817
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 22373
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29809
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 22360
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 14894
+Opening Balance Lifted_Weekly 111775
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW GLENDIVE MT CENEX EX - 02PT ULSD
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+2015-07-02 00:00:00 1
+2015-07-03 00:00:00 1
+2015-07-04 00:00:00 1
+2015-07-05 00:00:00 1
+2015-07-06 00:00:00 1
+2015-07-07 00:00:00 1
+2015-07-08 00:00:00 1
+2015-07-09 00:00:00 1
+2015-07-10 00:00:00 1
+2015-07-11 00:00:00 1
+2015-07-12 00:00:00 1
+2015-07-13 00:00:00 1
+2015-07-14 00:00:00 1
+2015-07-15 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D'), Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D'), Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 2
+2015-07-17 00:00:00 2
+2015-07-18 00:00:00 2
+2015-07-19 00:00:00 2
+2015-07-20 00:00:00 2
+2015-07-21 00:00:00 2
+2015-07-22 00:00:00 2
+2015-07-23 00:00:00 2
+2015-07-24 00:00:00 2
+2015-07-25 00:00:00 2
+2015-07-26 00:00:00 2
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D'), Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D')]
+2015-07-27 00:00:00 3
+2015-07-28 00:00:00 3
+2015-07-29 00:00:00 3
+2015-07-30 00:00:00 3
+2015-07-31 00:00:00 3
+[Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D'), Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w1
+2015-07-03    w1
+2015-07-04    w1
+2015-07-05    w1
+2015-07-06    w1
+2015-07-07    w1
+2015-07-08    w1
+2015-07-09    w1
+2015-07-10    w1
+2015-07-11    w1
+2015-07-12    w1
+2015-07-13    w1
+2015-07-14    w1
+2015-07-15    w1
+2015-07-16    w2
+2015-07-17    w2
+2015-07-18    w2
+2015-07-19    w2
+2015-07-20    w2
+2015-07-21    w2
+2015-07-22    w2
+2015-07-23    w2
+2015-07-24    w2
+2015-07-25    w2
+2015-07-26    w2
+2015-07-27    w3
+2015-07-28    w3
+2015-07-29    w3
+2015-07-30    w3
+2015-07-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                    -1                     -1
+2015-07-02                   w1                    -1                     -1
+2015-07-03                   w1                    -1                     -1
+2015-07-04                   w1                    -1                     -1
+2015-07-05                   w1                    -1                     -1
+2015-07-06                   w1                    -1                     -1
+2015-07-07                   w1                    -1                     -1
+2015-07-08                   w1                    -1                     -1
+2015-07-09                   w1                    -1                     -1
+2015-07-10                   w1                    -1                     -1
+2015-07-11                   w1                    -1                     -1
+2015-07-12                   w1                    -1                     -1
+2015-07-13                   w1                    -1                     -1
+2015-07-14                   w1                  9200                  73900
+2015-07-15                   w1                     0                  73900
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w2                     0                      0
+2015-07-17                   w2                     0                      0
+2015-07-18                   w2                     0                      0
+2015-07-19                   w2                     0                      0
+2015-07-20                   w2                     0                      0
+2015-07-21                   w2                     0                      0
+2015-07-22                   w2                     0                      0
+2015-07-23                   w2                  9200                   9200
+2015-07-24                   w2                     0                   9200
+2015-07-25                   w2                     0                   9200
+2015-07-26                   w2                  9300                  18500
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-27                   w3                    -1                     -1
+2015-07-28                   w3                    -1                     -1
+2015-07-29                   w3                    -1                     -1
+2015-07-30                   w3                    -1                     -1
+2015-07-31                   w3                    -1                     -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+18800 0 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+27900 18800 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+27900 27900 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+46000 27900 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+46000 46000 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+92200 46000 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+92200 92200 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+-1 92200 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+110300 -1 -1
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+128600 110300 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+137900 128600 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+156900 137900 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+-1 156900 9200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 9200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 9300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+184600 -1 -1
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+184600 184600 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+184600 184600 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+184600 184600 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+184600 184600 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Opening Balance Lifted_Daily -1
+Opening Balance Lifted_Weekly -1
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW HAMMOND IN (MOC) - 00DH Prem RFG
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 6
+[Timestamp('2015-07-30 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w6
+2015-07-31    w7
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                 18800                  41906
+Opening Balance Lifted_Daily 800
+Opening Balance Lifted_Weekly 23106
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                  6500                   6500
+2015-07-03                   w2                  2400                   8900
+2015-07-04                   w2                  5203                  18110
+2015-07-05                   w2                  4902                  28412
+2015-07-06                   w2                  9800                  43512
+2015-07-07                   w2                  1250                  44762
+2015-07-08                   w2                  7900                  52662
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                  9700                  18555
+2015-07-11                   w3                  4000                  22555
+2015-07-12                   w3                  1200                  23755
+2015-07-13                   w3                  4803                  28558
+2015-07-14                   w3                  3200                  31758
+2015-07-15                   w3                  9500                  41258
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                  4700                   4700
+2015-07-17                   w4                     0                   4700
+2015-07-18                   w4                  1001                   9401
+2015-07-19                   w4                  4703                  14104
+2015-07-20                   w4                  5803                  19907
+2015-07-21                   w4                  5403                  25310
+2015-07-22                   w4                  1200                  26510
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                 12300                  12300
+2015-07-24                   w5                  9200                  21500
+2015-07-25                   w5                  4200                  25700
+2015-07-26                   w5                  4003                  29703
+2015-07-27                   w5                  3301                  33004
+2015-07-28                   w5                  2803                  35807
+2015-07-29                   w5                  5100                  40907
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w6                  9700                   9700
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-31                   w7                  3401                     -1
+Modification_Successful
+-1 -1 6500
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 2400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 5203
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 4902
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 9800
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1250
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7900
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 9700
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 4000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 4803
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 3200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 9500
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 4700
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1001
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 4703
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 5803
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 5403
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 12300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 9200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 4200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 4003
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 3301
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 2803
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 5100
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 9700
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 3401
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 800
+Opening Balance Lifted_Weekly 23106
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW HAMMOND IN (MOC) - 00DH Reg RFG
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D')]
+2015-07-13 00:00:00 4
+2015-07-14 00:00:00 4
+2015-07-15 00:00:00 4
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+2015-07-23 00:00:00 4
+2015-07-24 00:00:00 4
+2015-07-25 00:00:00 4
+2015-07-26 00:00:00 4
+2015-07-27 00:00:00 4
+2015-07-28 00:00:00 4
+2015-07-29 00:00:00 4
+[Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D'), Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D'), Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 5
+2015-07-31 00:00:00 5
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w4
+2015-07-14    w4
+2015-07-15    w4
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w4
+2015-07-24    w4
+2015-07-25    w4
+2015-07-26    w4
+2015-07-27    w4
+2015-07-28    w4
+2015-07-29    w4
+2015-07-30    w5
+2015-07-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                 45510                 310158
+Opening Balance Lifted_Daily 24500
+Opening Balance Lifted_Weekly 264648
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                 36600                  36600
+2015-07-03                   w2                 23300                  94710
+2015-07-04                   w2                 29205                 171446
+2015-07-05                   w2                 12104                 209505
+2015-07-06                   w2                 16003                 263358
+2015-07-07                   w2                 39201                 319659
+2015-07-08                   w2                 43401                 363060
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                 33501                  85377
+2015-07-11                   w3                 73169                 158546
+2015-07-12                   w3                 42308                 200854
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-13                   w4                    -1                     -1
+2015-07-14                   w4                    -1                     -1
+2015-07-15                   w4                    -1                     -1
+2015-07-16                   w4                    -1                     -1
+2015-07-17                   w4                    -1                     -1
+2015-07-18                   w4                    -1                     -1
+2015-07-19                   w4                    -1                     -1
+2015-07-20                   w4                    -1                     -1
+2015-07-21                   w4                    -1                     -1
+2015-07-22                   w4                    -1                     -1
+2015-07-23                   w4                    -1                     -1
+2015-07-24                   w4                 50450                  89149
+2015-07-25                   w4                 72352                 161501
+2015-07-26                   w4                 54454                 215955
+2015-07-27                   w4                 48391                 264346
+2015-07-28                   w4                 31606                 295952
+2015-07-29                   w4                 55110                 351062
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w5                 44400                  44400
+2015-07-31                   w5                 35503                  79903
+-1 -1 36600
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 23300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29205
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 12104
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 16003
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 39201
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 43401
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 33501
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 73169
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 42308
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+656939 -1 -1
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+696290 656939 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+746990 696290 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+811500 746990 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+863358 811500 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+918360 863358 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+991632 918360 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+1028588 991632 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+1065294 1028588 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+1124403 1065294 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+1163102 1124403 -1
+Insufficient Data to Compute Daily Lifted using Monthly
+-1 1163102 50450
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 72352
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 54454
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 48391
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 31606
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 55110
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 44400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 35503
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 24500
+Opening Balance Lifted_Weekly 264648
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW HAMMOND IN (MOC) - 00DH ULSD
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 6
+2015-07-31 00:00:00 6
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w6
+2015-07-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                534472                2923674
+Opening Balance Lifted_Daily 546550
+Opening Balance Lifted_Weekly 2389202
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                225710                 225710
+2015-07-03                   w2                104329                 493224
+2015-07-04                   w2                 56813                 676956
+2015-07-05                   w2                 37502                 804776
+2015-07-06                   w2                 69012                 947596
+2015-07-07                   w2                513889                1641809
+2015-07-08                   w2                224308                1896423
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                333915                 796365
+2015-07-11                   w3                240546                1044413
+2015-07-12                   w3                232970                1284785
+2015-07-13                   w3                288982                1573767
+2015-07-14                   w3                493809                2089878
+2015-07-15                   w3                300695                2405323
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                423831                 423831
+2015-07-17                   w4                258171                 682002
+2015-07-18                   w4                192997                 882554
+2015-07-19                   w4                144628                1027182
+2015-07-20                   w4                314393                1363075
+2015-07-21                   w4                409251                1787130
+2015-07-22                   w4                509721                2304351
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                467026                 467026
+2015-07-24                   w5                328001                 817535
+2015-07-25                   w5                164579                 989614
+2015-07-26                   w5                148875                1146044
+2015-07-27                   w5                321995                1468039
+2015-07-28                   w5                529462                2004701
+2015-07-29                   w5                385466                2390167
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w6                478647                 478647
+2015-07-31                   w6                307736                 786383
+-1 -1 225710
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 104329
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 56813
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 37502
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 69012
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 513889
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 224308
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 333915
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 240546
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 232970
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 288982
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 493809
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 300695
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 423831
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 258171
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 192997
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 144628
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 314393
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 409251
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 509721
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 467026
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 328001
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 164579
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 148875
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 321995
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 529462
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 385466
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 478647
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 307736
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 546550
+Opening Balance Lifted_Weekly 2389202
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW LOCKPORT IL (MOC) - 00MD ULSD
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 6
+2015-07-31 00:00:00 6
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w6
+2015-07-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                 81309                 401917
+Opening Balance Lifted_Daily 67308
+Opening Balance Lifted_Weekly 320608
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                 59308                  59308
+2015-07-03                   w2                 22453                 104166
+2015-07-04                   w2                  7502                 141370
+2015-07-05                   w2                  7401                 163771
+2015-07-06                   w2                  7402                 171173
+2015-07-07                   w2                 66909                 282385
+2015-07-08                   w2                 29905                 326940
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                 66863                 141333
+2015-07-11                   w3                 43957                 192696
+2015-07-12                   w3                 29450                 229552
+2015-07-13                   w3                 59458                 289010
+2015-07-14                   w3                 80820                 369830
+2015-07-15                   w3                 67169                 436999
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                 66958                  66958
+2015-07-17                   w4                 52160                 126522
+2015-07-18                   w4                 44557                 171079
+2015-07-19                   w4                 29656                 200735
+2015-07-20                   w4                 74160                 274895
+2015-07-21                   w4                 66674                 341569
+2015-07-22                   w4                 67075                 408644
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                 81824                  81824
+2015-07-24                   w5                 44717                 126541
+2015-07-25                   w5                 14800                 141341
+2015-07-26                   w5                 29755                 171096
+2015-07-27                   w5                 44818                 215914
+2015-07-28                   w5                 67209                 283123
+2015-07-29                   w5                 81620                 364743
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w6                 74167                  74167
+2015-07-31                   w6                 59456                 133623
+-1 -1 59308
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 22453
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7502
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7401
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7402
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 66909
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29905
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 66863
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 43957
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29450
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 59458
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 80820
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 67169
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 66958
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 52160
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 44557
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29656
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 74160
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 66674
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 67075
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 81824
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 44717
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 14800
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29755
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 44818
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 67209
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 81620
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 74167
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 59456
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 67308
+Opening Balance Lifted_Weekly 320608
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW MEMPHIS TN (MOC) - 00QE Prem CBOB
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW MEMPHIS TN (MOC) - 00QE Prem CBOB<9
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 6
+2015-07-31 00:00:00 6
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w6
+2015-07-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                     0                   5405
+Opening Balance Lifted_Daily 0
+Opening Balance Lifted_Weekly 5405
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                     0                      0
+2015-07-03                   w2                     0                      0
+2015-07-04                   w2                  1000                   1000
+2015-07-05                   w2                  1200                   2200
+2015-07-06                   w2                     0                   2200
+2015-07-07                   w2                     0                   3405
+2015-07-08                   w2                     0                   3405
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                  1000                   1000
+2015-07-11                   w3                  1200                   2200
+2015-07-12                   w3                  1200                   3400
+2015-07-13                   w3                  8610                  12010
+2015-07-14                   w3                     0                  12010
+2015-07-15                   w3                     0                  12010
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                     0                      0
+2015-07-17                   w4                  1100                   1100
+2015-07-18                   w4                     0                   1100
+2015-07-19                   w4                  1100                   2200
+2015-07-20                   w4                     0                   2200
+2015-07-21                   w4                     0                   2200
+2015-07-22                   w4                     0                   2200
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                     0                      0
+2015-07-24                   w5                  8500                   8500
+2015-07-25                   w5                     0                   8500
+2015-07-26                   w5                     0                   8500
+2015-07-27                   w5                     0                   8500
+2015-07-28                   w5                     0                   8500
+2015-07-29                   w5                  1000                   9500
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w6                     0                      0
+2015-07-31                   w6                  1000                   1000
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 1000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8610
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1100
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1100
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8500
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 0
+Opening Balance Lifted_Weekly 5405
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW MEMPHIS TN (MOC) - 00QE Reg CBOB
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 6
+2015-07-31 00:00:00 6
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w6
+2015-07-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                 40500                 268555
+Opening Balance Lifted_Daily 54350
+Opening Balance Lifted_Weekly 228055
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                 49590                  49590
+2015-07-03                   w2                 28450                  95465
+2015-07-04                   w2                 13700                 151465
+2015-07-05                   w2                  9650                 210717
+2015-07-06                   w2                  7850                 260917
+2015-07-07                   w2                 40100                 347928
+2015-07-08                   w2                 24950                 372878
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                 63552                 119054
+2015-07-11                   w3                 56603                 175657
+2015-07-12                   w3                 55400                 231057
+2015-07-13                   w3                 46855                 277912
+2015-07-14                   w3                 29700                 307612
+2015-07-15                   w3                 29500                 337112
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                 58600                  58600
+2015-07-17                   w4                 49875                 108475
+2015-07-18                   w4                 55903                 164378
+2015-07-19                   w4                 62225                 226603
+2015-07-20                   w4                 37849                 264452
+2015-07-21                   w4                 29750                 294202
+2015-07-22                   w4                 33501                 336703
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                 47310                  47310
+2015-07-24                   w5                 29821                  77131
+2015-07-25                   w5                 52000                 129131
+2015-07-26                   w5                 38218                 167349
+2015-07-27                   w5                 51256                 218605
+2015-07-28                   w5                 44400                 263005
+2015-07-29                   w5                 37775                 300780
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w6                 45300                  45300
+2015-07-31                   w6                 56950                 102250
+-1 -1 49590
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 28450
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 13700
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 9650
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7850
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 40100
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 24950
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 63552
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 56603
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 55400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 46855
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29700
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29500
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 58600
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 49875
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 55903
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 62225
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 37849
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29750
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 33501
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 47310
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 29821
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 52000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 38218
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 51256
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 44400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 37775
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 45300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 56950
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 54350
+Opening Balance Lifted_Weekly 228055
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW MEMPHIS TN (MOC) - 00QE Reg CBOB<9
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+2015-07-02 00:00:00 1
+2015-07-03 00:00:00 1
+2015-07-04 00:00:00 1
+2015-07-05 00:00:00 1
+2015-07-06 00:00:00 1
+2015-07-07 00:00:00 1
+2015-07-08 00:00:00 1
+2015-07-09 00:00:00 1
+2015-07-10 00:00:00 1
+2015-07-11 00:00:00 1
+2015-07-12 00:00:00 1
+2015-07-13 00:00:00 1
+2015-07-14 00:00:00 1
+2015-07-15 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D'), Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D'), Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 2
+2015-07-17 00:00:00 2
+2015-07-18 00:00:00 2
+2015-07-19 00:00:00 2
+2015-07-20 00:00:00 2
+2015-07-21 00:00:00 2
+2015-07-22 00:00:00 2
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 3
+2015-07-24 00:00:00 3
+2015-07-25 00:00:00 3
+2015-07-26 00:00:00 3
+2015-07-27 00:00:00 3
+2015-07-28 00:00:00 3
+2015-07-29 00:00:00 3
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 4
+2015-07-31 00:00:00 4
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w1
+2015-07-03    w1
+2015-07-04    w1
+2015-07-05    w1
+2015-07-06    w1
+2015-07-07    w1
+2015-07-08    w1
+2015-07-09    w1
+2015-07-10    w1
+2015-07-11    w1
+2015-07-12    w1
+2015-07-13    w1
+2015-07-14    w1
+2015-07-15    w1
+2015-07-16    w2
+2015-07-17    w2
+2015-07-18    w2
+2015-07-19    w2
+2015-07-20    w2
+2015-07-21    w2
+2015-07-22    w2
+2015-07-23    w3
+2015-07-24    w3
+2015-07-25    w3
+2015-07-26    w3
+2015-07-27    w3
+2015-07-28    w3
+2015-07-29    w3
+2015-07-30    w4
+2015-07-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                     0                     -1
+2015-07-02                   w1                  8500                     -1
+2015-07-03                   w1                  8401                     -1
+2015-07-04                   w1                  7200                     -1
+2015-07-05                   w1                  6000                     -1
+2015-07-06                   w1                     0                     -1
+2015-07-07                   w1                     0                     -1
+2015-07-08                   w1                     0                     -1
+2015-07-09                   w1                    -1                     -1
+2015-07-10                   w1                  7400                     -1
+2015-07-11                   w1                  7501                     -1
+2015-07-12                   w1                  7400                     -1
+2015-07-13                   w1                     0                     -1
+2015-07-14                   w1                     0                  30901
+2015-07-15                   w1                     0                  30901
+Opening Balance Lifted_Daily 0
+Opening Balance Lifted_Weekly -1
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w2                  8400                   8400
+2015-07-17                   w2                  7500                  15900
+2015-07-18                   w2                     0                  15900
+2015-07-19                   w2                  7300                  23200
+2015-07-20                   w2                     0                  23200
+2015-07-21                   w2                  8610                  31810
+2015-07-22                   w2                     0                  31810
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w3                  8500                   8500
+2015-07-24                   w3                     0                   8500
+2015-07-25                   w3                     0                  16100
+2015-07-26                   w3                  8600                  24700
+2015-07-27                   w3                     0                  24700
+2015-07-28                   w3                     0                  24700
+2015-07-29                   w3                 16000                  40700
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w4                     0                      0
+2015-07-31                   w4                  7400                   7400
+-1 -1 8500
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8401
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 6000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 7400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7501
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7500
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8610
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8500
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8600
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 16000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 0
+Opening Balance Lifted_Weekly -1
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW MEMPHIS TN (MOC) - 00QE ULSD
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D'), Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D')]
+2015-07-30 00:00:00 6
+2015-07-31 00:00:00 6
+[Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w6
+2015-07-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                 45460                 258946
+Opening Balance Lifted_Daily 45606
+Opening Balance Lifted_Weekly 213486
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                 38635                  38635
+2015-07-03                   w2                  7726                  54086
+2015-07-04                   w2                 45175                 122336
+2015-07-05                   w2                 11200                 133536
+2015-07-06                   w2                 23175                 168661
+2015-07-07                   w2                 45650                 222036
+2015-07-08                   w2                 30901                 252937
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                 46075                  92701
+2015-07-11                   w3                 46150                 138851
+2015-07-12                   w3                 32040                 170891
+2015-07-13                   w3                 30535                 201426
+2015-07-14                   w3                 45851                 247277
+2015-07-15                   w3                 15575                 262852
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                 46350                  46350
+2015-07-17                   w4                 33499                  79849
+2015-07-18                   w4                 24425                 104274
+2015-07-19                   w4                 37650                 141924
+2015-07-20                   w4                 45740                 187664
+2015-07-21                   w4                 46080                 233744
+2015-07-22                   w4                 30801                 264545
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                 46154                  46154
+2015-07-24                   w5                 30735                  76889
+2015-07-25                   w5                 30325                 107214
+2015-07-26                   w5                 53225                 160439
+2015-07-27                   w5                 34250                 194689
+2015-07-28                   w5                 38286                 232975
+2015-07-29                   w5                 27275                 260250
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-30                   w6                 45948                  45948
+2015-07-31                   w6                 30575                  76523
+-1 -1 38635
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7726
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 45175
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 11200
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 23175
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 45650
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 30901
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 46075
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 46150
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 32040
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 30535
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 45851
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 15575
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 46350
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 33499
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 24425
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 37650
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 45740
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 46080
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 30801
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 46154
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 30735
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 30325
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 53225
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 34250
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 38286
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 27275
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 45948
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 30575
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 45606
+Opening Balance Lifted_Weekly 213486
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+Modification_Successful
+Modification_Successful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW VERNON CA (MOC) - 00N6 Prem RFG
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+2015-07-23 00:00:00 4
+2015-07-24 00:00:00 4
+2015-07-25 00:00:00 4
+2015-07-26 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D'), Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D')]
+2015-07-27 00:00:00 5
+2015-07-28 00:00:00 5
+2015-07-29 00:00:00 5
+2015-07-30 00:00:00 5
+2015-07-31 00:00:00 5
+[Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D'), Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w4
+2015-07-24    w4
+2015-07-25    w4
+2015-07-26    w4
+2015-07-27    w5
+2015-07-28    w5
+2015-07-29    w5
+2015-07-30    w5
+2015-07-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                   900                   1800
+Opening Balance Lifted_Daily 900
+Opening Balance Lifted_Weekly 900
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                     0                      0
+2015-07-03                   w2                     0                      0
+2015-07-04                   w2                   900                    900
+2015-07-05                   w2                     0                    900
+2015-07-06                   w2                     0                    900
+2015-07-07                   w2                     0                   2000
+2015-07-08                   w2                     0                   2000
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                     0                   2700
+2015-07-11                   w3                     0                   2700
+2015-07-12                   w3                     0                   2700
+2015-07-13                   w3                     0                   2700
+2015-07-14                   w3                     0                   2700
+2015-07-15                   w3                     0                   2700
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                     0                      0
+2015-07-17                   w4                     0                      0
+2015-07-18                   w4                     0                      0
+2015-07-19                   w4                     0                      0
+2015-07-20                   w4                     0                      0
+2015-07-21                   w4                     0                      0
+2015-07-22                   w4                   900                    900
+2015-07-23                   w4                  1100                   1100
+2015-07-24                   w4                     0                   1100
+2015-07-25                   w4                     0                   1100
+2015-07-26                   w4                     0                   1100
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-27                   w5                    -1                     -1
+2015-07-28                   w5                    -1                     -1
+2015-07-29                   w5                    -1                     -1
+2015-07-30                   w5                    -1                     -1
+2015-07-31                   w5                    -1                     -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 900
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 900
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 1100
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 900
+Opening Balance Lifted_Weekly 900
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW VERNON CA (MOC) - 00N6 Reg RFG
+[datetime.datetime(2015, 7, 2, 0, 0)]
+[datetime.datetime(2015, 7, 2, 0, 0), datetime.datetime(2015, 7, 9, 0, 0), datetime.datetime(2015, 7, 16, 0, 0), datetime.datetime(2015, 7, 23, 0, 0), datetime.datetime(2015, 7, 30, 0, 0), datetime.datetime(2015, 8, 6, 0, 0)]
+2015-07-01 00:00:00 1
+[Timestamp('2015-07-01 00:00:00', offset='D')]
+2015-07-02 00:00:00 2
+2015-07-03 00:00:00 2
+2015-07-04 00:00:00 2
+2015-07-05 00:00:00 2
+2015-07-06 00:00:00 2
+2015-07-07 00:00:00 2
+2015-07-08 00:00:00 2
+[Timestamp('2015-07-02 00:00:00', offset='D'), Timestamp('2015-07-03 00:00:00', offset='D'), Timestamp('2015-07-04 00:00:00', offset='D'), Timestamp('2015-07-05 00:00:00', offset='D'), Timestamp('2015-07-06 00:00:00', offset='D'), Timestamp('2015-07-07 00:00:00', offset='D'), Timestamp('2015-07-08 00:00:00', offset='D')]
+2015-07-09 00:00:00 3
+2015-07-10 00:00:00 3
+2015-07-11 00:00:00 3
+2015-07-12 00:00:00 3
+2015-07-13 00:00:00 3
+2015-07-14 00:00:00 3
+2015-07-15 00:00:00 3
+[Timestamp('2015-07-09 00:00:00', offset='D'), Timestamp('2015-07-10 00:00:00', offset='D'), Timestamp('2015-07-11 00:00:00', offset='D'), Timestamp('2015-07-12 00:00:00', offset='D'), Timestamp('2015-07-13 00:00:00', offset='D'), Timestamp('2015-07-14 00:00:00', offset='D'), Timestamp('2015-07-15 00:00:00', offset='D')]
+2015-07-16 00:00:00 4
+2015-07-17 00:00:00 4
+2015-07-18 00:00:00 4
+2015-07-19 00:00:00 4
+2015-07-20 00:00:00 4
+2015-07-21 00:00:00 4
+2015-07-22 00:00:00 4
+[Timestamp('2015-07-16 00:00:00', offset='D'), Timestamp('2015-07-17 00:00:00', offset='D'), Timestamp('2015-07-18 00:00:00', offset='D'), Timestamp('2015-07-19 00:00:00', offset='D'), Timestamp('2015-07-20 00:00:00', offset='D'), Timestamp('2015-07-21 00:00:00', offset='D'), Timestamp('2015-07-22 00:00:00', offset='D')]
+2015-07-23 00:00:00 5
+2015-07-24 00:00:00 5
+2015-07-25 00:00:00 5
+2015-07-26 00:00:00 5
+[Timestamp('2015-07-23 00:00:00', offset='D'), Timestamp('2015-07-24 00:00:00', offset='D'), Timestamp('2015-07-25 00:00:00', offset='D'), Timestamp('2015-07-26 00:00:00', offset='D')]
+2015-07-27 00:00:00 6
+2015-07-28 00:00:00 6
+2015-07-29 00:00:00 6
+2015-07-30 00:00:00 6
+2015-07-31 00:00:00 6
+[Timestamp('2015-07-27 00:00:00', offset='D'), Timestamp('2015-07-28 00:00:00', offset='D'), Timestamp('2015-07-29 00:00:00', offset='D'), Timestamp('2015-07-30 00:00:00', offset='D'), Timestamp('2015-07-31 00:00:00', offset='D')]
+2015-07-01    w1
+2015-07-02    w2
+2015-07-03    w2
+2015-07-04    w2
+2015-07-05    w2
+2015-07-06    w2
+2015-07-07    w2
+2015-07-08    w2
+2015-07-09    w3
+2015-07-10    w3
+2015-07-11    w3
+2015-07-12    w3
+2015-07-13    w3
+2015-07-14    w3
+2015-07-15    w3
+2015-07-16    w4
+2015-07-17    w4
+2015-07-18    w4
+2015-07-19    w4
+2015-07-20    w4
+2015-07-21    w4
+2015-07-22    w4
+2015-07-23    w5
+2015-07-24    w5
+2015-07-25    w5
+2015-07-26    w5
+2015-07-27    w6
+2015-07-28    w6
+2015-07-29    w6
+2015-07-30    w6
+2015-07-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-01                   w1                  7400                  23100
+Opening Balance Lifted_Daily 7400
+Opening Balance Lifted_Weekly 15700
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-02                   w2                  8501                   8501
+2015-07-03                   w2                     0                   8501
+2015-07-04                   w2                  7400                  24201
+2015-07-05                   w2                     0                  24201
+2015-07-06                   w2                     0                  32501
+2015-07-07                   w2                     0                  32501
+2015-07-08                   w2                     0                  32501
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-09                   w3                    -1                     -1
+2015-07-10                   w3                     0                   5600
+2015-07-11                   w3                  8300                  13900
+2015-07-12                   w3                  8300                  22200
+2015-07-13                   w3                  8300                  30500
+2015-07-14                   w3                  8300                  38800
+2015-07-15                   w3                     0                  38800
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-16                   w4                     0                      0
+2015-07-17                   w4                     0                   8300
+2015-07-18                   w4                     0                   8300
+2015-07-19                   w4                     0                   8300
+2015-07-20                   w4                  8301                  16601
+2015-07-21                   w4                     0                  16601
+2015-07-22                   w4                  7400                  24001
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-23                   w5                  7401                   7401
+2015-07-24                   w5                  8300                  15701
+2015-07-25                   w5                     0                  15701
+2015-07-26                   w5                     0                  15701
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-07-27                   w6                    -1                     -1
+2015-07-28                   w6                    -1                     -1
+2015-07-29                   w6                    -1                     -1
+2015-07-30                   w6                    -1                     -1
+2015-07-31                   w6                    -1                     -1
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriWeeklyValues
+No Enough Data available to Fill Lifted Gallons
+Modification_UnSuccessful
+-1 -1 8501
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8301
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 7401
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 8300
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+Opening Balance Lifted_Daily 7400
+Opening Balance Lifted_Weekly 15700
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_Successful
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW MEMPHIS TN PREMCOR RP - 00RG ULSD(G)
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW GARDENA CA CPH EX - 00QL Premium RFG
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+***** Execution in Combination: pilot Exxon PILOT TRAVEL CENTERS LLC 103637 IW GARDENA CA CPH EX - 00QL Regular RFG
+No Weekly Refresh Dates to Compute....
+ Exiting Execution.....
+Rows  0 Deleted Successfully
+Deletion Success
+Completed Execution Thanks for you Patience 
+0:00:40.083000
+Execution Started Please Wait.....
